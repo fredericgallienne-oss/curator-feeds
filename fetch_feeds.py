@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-fetch_feeds.py — pull recent items from RSS/Atom feeds into a local cache.
+fetch_feeds.py — pull recent items from RSS/Atom feeds into a local cache
 
 The point of this file: it needs no credentials at all. Substack, Bandcamp
 Daily and most music publications expose open feeds. Search indexes them
