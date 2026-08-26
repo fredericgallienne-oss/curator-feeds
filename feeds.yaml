@@ -1,0 +1,22 @@
+# Feed registry for fetch_feeds.py — no credentials needed for any of these.
+# Flat "- url" lines so the script can read it without a YAML dependency.
+#
+# Add one:  python3 fetch_feeds.py --add https://example.substack.com/feed
+
+# --- Substack: individual obsessives, weekly, ahead of critical consensus.
+#     This is the signal we wanted from Reddit. Search indexes these with
+#     weeks of lag; the feeds are current to the minute.
+- https://breadandbuttermusic.substack.com/feed
+- https://numusicmonday.substack.com/feed
+- https://spaceofsound.substack.com/feed
+- https://indiescientist.substack.com/feed
+
+# --- Publications already proven useful in the discovery runs
+- https://daily.bandcamp.com/feed
+- https://www.stereogum.com/feed
+- https://pitchfork.com/feed/feed-album-reviews/rss
+- https://www.brooklynvegan.com/feed/
+- https://www.thelineofbestfit.com/feed
+
+# --- Canadian / Québec. Thin coverage everywhere else; worth its own entries.
+- https://exclaim.ca/rss/music
