@@ -1,0 +1,35 @@
+# Fetches music RSS feeds once a week and saves the results into this repo.
+# No credentials, no accounts, nothing personal. Just public blog headlines.
+
+name: relay
+
+on:
+  schedule:
+    - cron: "0 13 * * 5"   # Fridays 09:00 Montreal time
+  workflow_dispatch:        # also lets you run it by hand
+
+permissions:
+  contents: write           # needed so it can save the results back here
+
+jobs:
+  relay:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch feeds
+        run: |
+          python3 fetch_feeds.py --days 14
+          cp "$(ls -t cache/feeds-*.json | head -1)" cache/feeds-latest.json
+
+      - name: Save results
+        run: |
+          git config user.name  "curator-relay"
+          git config user.email "actions@github.com"
+          git add cache/
+          git diff --staged --quiet || git commit -m "feeds: $(date -u +%Y-%m-%d)"
+          git push
