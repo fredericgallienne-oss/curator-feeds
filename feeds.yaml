@@ -1,22 +1,28 @@
 # Feed registry for fetch_feeds.py — no credentials needed for any of these.
-# Flat "- url" lines so the script can read it without a YAML dependency.
+# Flat "- url" lines so the script reads it without a YAML dependency.
 #
 # Add one:  python3 fetch_feeds.py --add https://example.substack.com/feed
 
-# --- Substack: individual obsessives, weekly, ahead of critical consensus.
-#     This is the signal we wanted from Reddit. Search indexes these with
-#     weeks of lag; the feeds are current to the minute.
+# --- Proven working from the GitHub relay (2026-08-26)
+- https://daily.bandcamp.com/feed
+- https://www.stereogum.com/feed
+- https://pitchfork.com/feed/feed-album-reviews/rss
+- https://www.thelineofbestfit.com/feed
+
+# --- Canadian / Québec. Real feeds live on FeedBurner; exclaim.ca/rss/music
+#     was a guess and 404s.
+- https://feeds.feedburner.com/ExclaimCaAllArticles
+
+# --- Substack: individual weekly roundups, ahead of critical consensus.
+#     This is the signal we wanted from Reddit.
+#     STATUS: all four return 403 from the GitHub runner — Substack blocks
+#     datacenter IPs. v0.2.0 retries with a second User-Agent; if they still
+#     fail, run fetch_feeds.py on your Mac, where the residential IP is fine.
 - https://breadandbuttermusic.substack.com/feed
 - https://numusicmonday.substack.com/feed
 - https://spaceofsound.substack.com/feed
 - https://indiescientist.substack.com/feed
 
-# --- Publications already proven useful in the discovery runs
-- https://daily.bandcamp.com/feed
-- https://www.stereogum.com/feed
-- https://pitchfork.com/feed/feed-album-reviews/rss
-- https://www.brooklynvegan.com/feed/
-- https://www.thelineofbestfit.com/feed
-
-# --- Canadian / Québec. Thin coverage everywhere else; worth its own entries.
-- https://exclaim.ca/rss/music
+# --- Removed: brooklynvegan.com/feed/ — served malformed XML, and the site
+#     may have shut down (an Indiecast episode was described as a eulogy for
+#     it). v0.2.0 can salvage broken feeds, so re-add if it comes back.
