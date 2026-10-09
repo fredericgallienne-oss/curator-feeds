@@ -1,10 +1,801 @@
 {
-  "fetched": "2026-10-02T18:15:54+00:00",
+  "fetched": "2026-10-09T18:41:52+00:00",
   "window_days": 14,
   "feeds_ok": 5,
   "feeds_total": 9,
-  "count": 135,
+  "count": 138,
   "items": [
+    {
+      "source": "daily.bandcamp.com",
+      "title": "The Best Contemporary Classical Music on Bandcamp, September 2026",
+      "url": "https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-september-2026",
+      "date": "2026-10-09",
+      "summary": "Our guide to the month’s crucial contemporary classical releases. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "daily.bandcamp.com",
+      "title": "Essential Releases, October 9, 2026",
+      "url": "https://daily.bandcamp.com/essential-releases/essential-releases-october-9-2026",
+      "date": "2026-10-09",
+      "summary": "Experimental electronic, pipe organ experiments, video game soundtracks, and more. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "daily.bandcamp.com",
+      "title": "Margo Cilker, “Little White Cross”",
+      "url": "https://daily.bandcamp.com/album-of-the-day/margo-cilker-little-white-cross-review",
+      "date": "2026-10-09",
+      "summary": "The folk artist's third record is strengthened by a focus on feeling and storytelling. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "stereogum.com",
+      "title": "“Silver Fox” Josh Homme Walks Ann Demeulemeester Runway, Readies His Own Clothing Line",
+      "url": "https://stereogum.com/2514166/silver-fox-josh-homme-walks-ann-demeulemeester-runway-readies-his-own-clothing-line/news/",
+      "date": "2026-10-09",
+      "summary": "You may have noticed that Josh Homme, deep into the rollout for the new Queens Of The Stone Age album Perfecth , is looking really, really good these days. Homme was always handsome, but he's clearly got one of these faces that gets more interesting as he ages. He's 53 now. He's about 6'4\". His eyes are a piercing blue. He dresses in interesting ways. He's got dangly earring and tattoos on his fin"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Stream Plague Skater’s Revved-Up, Bashed-Out, All-Over-The-Place Finale Plague Skater III",
+      "url": "https://stereogum.com/2514156/stream-plague-skaters-revved-up-bashed-out-all-over-the-place-finale-plague-skater-iii/music/",
+      "date": "2026-10-09",
+      "summary": "One of my favorite COVID-era Bandcamp finds was Plague Skater, the lo-fi rock project of New Jersey's Will Schwester. Under the Plague Skater banner, Schwester kicked out two albums' worth of genre-hopping DIY intensity, 2020's self-titled debut and 2021's Plague Skater II . Since then, the Plague Skater account on Bandcamp has yielded lots of experimental releases under various guises, but not un"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Cardi B – “Don’t Chart”",
+      "url": "https://stereogum.com/2514152/cardi-b-dont-chart/music/",
+      "date": "2026-10-09",
+      "summary": "It feels really, really good to hear Cardi B talk her shit. Over the past decade or so, the New York rap star has not really altered her method of shit-talk, and it's pretty far from the current current mainstream, whether we're talking about rap or pop. Maybe her shit-talk doesn't hit quite the same as it did on \" Bodak Yellow \" once upon a time, but it still scratches some deep mental itch. Mayb"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Aluna – “Moaning” (Feat. Jengi)",
+      "url": "https://stereogum.com/2514104/aluna-moaning-feat-jengi/news/",
+      "date": "2026-10-09",
+      "summary": "In 2023, British singer and electronic musician Aluna, formerly of AlunaGeorge, released the massively underrated album MYCELiUM . Since then, she's been dropping singles here and there, including this year's \"Houseboy\" and \"Misbehave.\" Today, she's returned with another new single \"Moaning,\" which features Dutch producer Jengi. It's an absolute pleasure to listen to, a scintillating dance soundtr"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Alanis Morissette Announces New Christmas Album Feat. Brandi Carlile, Steve Martin, & Martin Short",
+      "url": "https://stereogum.com/2514139/alanis-morissette-announces-new-christmas-album-feat-brandi-carlile-steve-martin-martin-short/music/",
+      "date": "2026-10-09",
+      "summary": "Alanis Morissette is here to remind you of the Christ- mess that you left when you went away. Look, you try to come up with a better pun. Go ahead. I'll wait. No? You can't? You thought of Jingled Little Pill and realized it was hopeless? Yeah, that's what I thought. My friend, this is what I do . I am a professional . Alanis Morissette announces her first-ever holiday album, and I give you \"the C"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "boygenius Reunite For Phoebe Bridgers’ Lance Oppenheim-Directed Acoustic Performance",
+      "url": "https://stereogum.com/2514119/boygenius-reunite-for-phoebe-bridgers-lance-oppenheim-directed-acoustic-performance/news/",
+      "date": "2026-10-09",
+      "summary": "According to every review that I've read, Phoebe Bridgers is putting in some amazing performances on her current arena tour. But unless you go see the show for yourself, you have to rely on secondhand accounts. Bridgers famously banned phones from those shows, which means there's basically no footage out there. For instance, we know that she reunited with her boygenius bandmates Julien Baker and L"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Grimes Releases “Accelerando” From New AI-Inspired (But Not AI-Generated) Album Psy Opera",
+      "url": "https://stereogum.com/2514112/grimes-releases-accelerando-from-new-ai-inspired-but-not-ai-generated-album-psy-opera/music/",
+      "date": "2026-10-09",
+      "summary": "Back in the spring, Grimes began teasing a new album called Psy Opera , as perfectly on-brand a title as I can imagine for this artist. As Grimes explained it, Psy Opera is a concept album about the potential for human extinction at the hands of AI that also stemmed from her belief that humans are not as inferior as some big AI acolytes claim. Although she has long been an AI enthusiast , she clar"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "femtanyl – “All The Time”",
+      "url": "https://stereogum.com/2514072/femtanyl-all-the-time/music/",
+      "date": "2026-10-09",
+      "summary": "femtanyl, not to be confused with hardcore group Fentanyl or rising indie-sleaze duo the Femcels, delivered the noise overload I desperately needed this fine Friday. “All The Time,” the Canadian-American duo of Noelle Stockwood and Juno Callender’s first single since signing to Columbia Records, sounds like digital rug burn in the most satisfying way. Check it out below. The post femtanyl – “All T"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Kimi Recor – “Call To U”",
+      "url": "https://stereogum.com/2513995/kimi-recor-call-to-u/music/",
+      "date": "2026-10-09",
+      "summary": "The latest offering from Kimi Recor 's upcoming album Applewater is absolutely mesmerizing. Listening to it, I imagine being somewhere dark. Maybe it's a forest. Maybe there are trees, bats wandering around their branched limbs. But there is certainly fog that grows outwards and upwards, majestic and slow and consuming. \"Call To U,\" with its haunting vocals and tender harp strums, is dark and stra"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Carly Rae Jepsen Adds Eight More Songs To Her New Double Album Day And Night",
+      "url": "https://stereogum.com/2514105/carly-rae-jepsen-adds-eight-more-songs-to-her-new-double-album-day-and-night/music/",
+      "date": "2026-10-09",
+      "summary": "Last month, cult-pop overlord Carly Rae Jepsen released her absolutely tremendous double album Day And Night . It's so good! Day And Night is a whole lot of music to process — 24 songs, divided into the Day side and the Night side, adding up to an hour and 25 minutes of bangers. It wasn't enough! Today, Jepsen releases Day And Night (Continued) , a new deluxe edition of an album that was plenty de"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Slayyyter – “i think he’s got a girl”",
+      "url": "https://stereogum.com/2514093/slayyyter-i-think-hes-got-a-girl/music/",
+      "date": "2026-10-09",
+      "summary": "We got another Slayyyter banger! Future generations of pop scholars will have to study Slayyyter's 2026 run; it has been a glorious thing to witness. Back in April, Slayyyter released the dizzy, auteurist trash-pop opus WOR$T GIRL IN AMERICA , which came in at #1 on our mid-year list . Since then Slayyyter has toured hard, performing for huge and rambunctious crowds. (She was just onstage with Tur"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Watch Westside Cowboy Make Their US TV Debut On Fallon",
+      "url": "https://stereogum.com/2514082/watch-westside-cowboy-make-their-us-tv-debut-on-fallon/news/",
+      "date": "2026-10-09",
+      "summary": "This band has it , man. It's been clear for a couple years now that Manchester indie rockers Westside Cowboy were a special unit, and debut album It Goes On affirmed that they're among the best in the world at wrangling guitars, melody, and anxious combustible energy into eminently likable songs. So seeing them in the Tonight Show spotlight, even in this diminished era of late-night TV, was extrem"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Power Trip Share First New Music Since Death Of Riley Gale",
+      "url": "https://stereogum.com/2514078/power-trip-share-first-new-music-since-death-of-riley-gale/music/",
+      "date": "2026-10-09",
+      "summary": "In 2020, Riley Gale, frontman of the great Texan hardcore/thrash band Power Trip, died suddenly and tragically at the way-too-young age of 34. Gale's fans, friends, bandmates, and family members were all obviously devastated. Two years later, Power Trip guitarist Blake Ibanez launched Fugitive , a new band that continued very much in Power Trip's tradition and released some truly sick tracks. At a"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Instagram Admits Its Algorithm Has Been Recommending Too Much Creed",
+      "url": "https://stereogum.com/2514057/instagram-admits-its-algorithm-has-been-recommending-too-much-creed/news/",
+      "date": "2026-10-09",
+      "summary": "It's another day in 2026, and the algorithm has been force-feeding us Creed. I was wondering why Chuck Mundy — that guy with an old man's prosthetic mask and a gazillion hot dogs and Busch Lights, singing \"One Last Breath\" — kept popping up on my Instagram. Although the algorithm might be catering to my unhinged, trashy taste, many users have been noticing recently that Instagram has been recommen"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Jeff Tweedy, Ratboys, Steve Earle, & More Play 80 Years Of John Prine Tribute Concert In Chicago",
+      "url": "https://stereogum.com/2514045/jeff-tweedy-ratboys-steve-earle-more-play-80-years-of-john-prine-tribute-concert-in-chicago/news/",
+      "date": "2026-10-09",
+      "summary": "Tomorrow, Oct. 10, would have been the 80th birthday for the late songwriting legend John Prine. Last night, dozens of musicians gathered at the Chicago Theatre paying homage to Prine, kicking off a weekend's worth of events celebrating his enduring legacy. The post Jeff Tweedy, Ratboys, Steve Earle, & More Play 80 Years Of John Prine Tribute Concert In Chicago appeared first on Stereogum ."
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Yo La Tengo Announce James Talarico Benefit Show",
+      "url": "https://stereogum.com/2514040/yo-la-tengo-announce-james-talarico-benefit-show/news/",
+      "date": "2026-10-09",
+      "summary": "Yo La Tengo will perform a benefit show in support of Texas Democratic Senate candidate James Talarico Oct. 27 at The Long Time in Austin, Texas. The event will raise funds for Talarico’s Senate campaign, with each ticket requiring a $100 donation to the campaign. Attendance will be capped at 500 people. The post Yo La Tengo Announce James Talarico Benefit Show appeared first on Stereogum ."
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Geordie Greep Addresses Rape Allegation Made On Flyers At Vancouver Show",
+      "url": "https://stereogum.com/2514031/geordie-greep-addresses-rape-allegation-made-on-flyers-at-vancouver-show/news/",
+      "date": "2026-10-09",
+      "summary": "While fans waited in line to get into Geordie Greep's concert at the Pearl in Vancouver yesterday, flyers with serious allegations were handed out. The flyers informed the crowd of sexual assault allegations that were made that day. An hour and forty minutes after the scheduled set time, Greep addressed the crowd with a speech about the situation before playing a solo set. The flyer read: The post"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Deafheaven Release New Surprise EP At Work In The Fields Of The Bomb",
+      "url": "https://stereogum.com/2514058/deafheaven-release-new-surprise-ep-at-work-in-the-fields-of-the-bomb/news/",
+      "date": "2026-10-09",
+      "summary": "Last month, Deafheaven guitarist Kerry McCoy mentioned mysterious plans for a new EP. Talking to the Spanish website Binaural , McCoy said the new record would be both \"the heaviest\" and \"the hardest\" thing that the band had ever done — a big claim when this band is the one under discussion. He also said that it would be out \"before the end of the year.\" Right now, Deafheaven are on tour with fell"
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "Live at Carnegie Hall",
+      "url": "https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/",
+      "date": "2026-10-09",
+      "summary": "With new songs that rank among his very best, the Geese frontman’s solo live album is an exquisite rendering of a had-to-be-there night and a work of real-time mythmaking."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "creole culture",
+      "url": "https://pitchfork.com/reviews/albums/dawn-richard-creole-culture/",
+      "date": "2026-10-09",
+      "summary": "The third album in Richards’ trilogy dedicated to her hometown is a celebration of New Orleans’ dynamism: colorful, communal, triumphantly on the move."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "Mud",
+      "url": "https://pitchfork.com/reviews/albums/remi-wolf-mud/",
+      "date": "2026-10-09",
+      "summary": "The pop singer’s dynamic but uneven third record provides a portrait of semi-reformed adulthood, powered mostly by her sheer charisma and impressive voice."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "Cancel Me (I’m Tired)",
+      "url": "https://pitchfork.com/reviews/albums/fat-dog-cancel-me-im-tired/",
+      "date": "2026-10-09",
+      "summary": "The London band wastes a great title on a second album of garish agit-rave punk that’s larded with references and desperately short on ideas."
+    },
+    {
+      "source": "thelineofbestfit.com",
+      "title": "Decolonise Fest is a loud and colourful course correction",
+      "url": "https://www.thelineofbestfit.com/features/festivals/decolonise-fest-2026-loud-colourful-course-correction",
+      "date": "2026-10-09",
+      "summary": "Over two days of arts, activism, and music in a North London brewery, Kayla Sandiford discovers what Decolonise Fest is doing to give punx of colour their flowers."
+    },
+    {
+      "source": "thelineofbestfit.com",
+      "title": "Watch Phoebe Bridgers reunite boygenius for Sound Check at Cherry Lane Theatre series",
+      "url": "https://www.thelineofbestfit.com/news/watch-phoebe-bridgers-reunite-boygenius-for-sound-check-at-cherry-lane-theatre-series",
+      "date": "2026-10-09",
+      "summary": "Phoebe Bridgers has shared a three-song performance as part of the Sound Check at Cherry Lane Theatre series, directed by Lance Oppenheim. The set includes a song from the Primetime film she stars in, and reunites her boygenius bandmates."
+    },
+    {
+      "source": "thelineofbestfit.com",
+      "title": "girl in red is back with new single “blue” and accompanying video",
+      "url": "https://www.thelineofbestfit.com/news/girl-in-red-is-back-with-new-single-blue-and-accompanying-video",
+      "date": "2026-10-09",
+      "summary": "Norwegian indie pop artist girl in red, aka Marie Ulven Ringheim, has released a new single titled “blue” via Columbia Records."
+    },
+    {
+      "source": "thelineofbestfit.com",
+      "title": "Grouper, Bill Callahan, Habibi lead lineup announcement for Winnipeg's Winterruption",
+      "url": "https://www.thelineofbestfit.com/news/grouper-bill-callahan-habibi-lead-lineup-announcement-for-winnipegs-winterruption",
+      "date": "2026-10-09",
+      "summary": "Running January 20-24 across the Manitoban city of Winnipeg, Winterruption YWG returns next year with a lineup led by Grouper, Bill Callahan, and Habibi, with many more from Canada and beyond."
+    },
+    {
+      "source": "thelineofbestfit.com",
+      "title": "Audio collagist Maryos Syawish announces debut solo album Qurmami",
+      "url": "https://www.thelineofbestfit.com/news/audio-collagist-maryos-syawish-announces-debut-solo-album-qurmami",
+      "date": "2026-10-09",
+      "summary": "Melbourne-based Chaldean Iraqi composer Maryos Syawish has announced his debut solo album, Qurmami, for release on 13 November via Research Records."
+    },
+    {
+      "source": "thelineofbestfit.com",
+      "title": "Power Trip return with first new music in eight years",
+      "url": "https://www.thelineofbestfit.com/news/power-trip-return-with-first-new-music-in-eight-years",
+      "date": "2026-10-09",
+      "summary": "Dallas thrash legends Power Trip have returned with a double single, “Precinct 3” / “Scavenger”, their first new music in eight years. A new album is due next year."
+    },
+    {
+      "source": "thelineofbestfit.com",
+      "title": "Black Lounge's George Grant wants to write songs that outlive him",
+      "url": "https://www.thelineofbestfit.com/features/interviews/black-lounge-george-grant-wants-to-write-songs-that-outlive-him",
+      "date": "2026-10-09",
+      "summary": "A frontman who would rather leave behind a loyal following and a body of work that carries on without him, Billericay-born songwriter George Grant has big ambitions for his band Black Lounge."
+    },
+    {
+      "source": "thelineofbestfit.com",
+      "title": "Friedberg detail second album Goodwife and share title track",
+      "url": "https://www.thelineofbestfit.com/news/friedberg-detail-second-album-goodwife-share-title-track",
+      "date": "2026-10-09",
+      "summary": "Friedberg, Anna Friedberg's London-based dance-punk collective, have announced their second album, Goodwife, inspired by Stop Making Sense, ESG, and her grandmother. The title track is out now."
+    },
+    {
+      "source": "thelineofbestfit.com",
+      "title": "Mi von Ahn shares double single from forthcoming album Delta Veins",
+      "url": "https://www.thelineofbestfit.com/news/mi-von-ahn-shares-double-single-from-forthcoming-album-delta-veins",
+      "date": "2026-10-09",
+      "summary": "Swedish dream-folk artist Mi von Ahn has released two new singles, \"Dadjat ii (II)\" and \"Varje gång vi hörs kan det va för sent\", ahead of her third album Delta Veins, which arrives on 6 November."
+    },
+    {
+      "source": "thelineofbestfit.com",
+      "title": "Stargazer host Iona Bielby chats about James McNeill Whistler on this week's Talk The Line podcast",
+      "url": "https://www.thelineofbestfit.com/news/talk-the-line-iona-bielby-james-mcneill-whistler",
+      "date": "2026-10-09",
+      "summary": "Art History graduate and content creator Iona Bielby chats to Talk The Line's Emmeline Armitage about one of her favourite artists, American painter James McNeill Whistler!"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Triumph Extend 50th Anniversary Tour with April Wine",
+      "url": "https://exclaim.ca/music/article/triumph-extend-50th-anniversary-tour-with-april-wine",
+      "date": "2026-10-09",
+      "summary": "On the rousing success of the first leg of their 50th anniversary comeback tour, Canadian power trio Triumph have added 15 US gigs — as well"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Backstreet Boys Keep on Adding Rogers Centre Shows",
+      "url": "https://exclaim.ca/music/article/backstreet-boys-announce-toronto-stadium-shows",
+      "date": "2026-10-09",
+      "summary": "Backstreet's back in Canada. Turn-of-the-millennium boy band Backstreet Boys have announced four nights at Toronto's Rogers Centre on"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Hear the Week's Best New Canadian Music: Jasmyn, Charlotte Cardin, Drezus, Chastity",
+      "url": "https://exclaim.ca/music/article/hear-the-week-s-best-new-canadian-music-eh-list",
+      "date": "2026-10-09",
+      "summary": "Every week, we reconnect with our primal hunting and gathering instincts to put together 'The Eh! List,' a curated playlist of the best new"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Remi Wolf Books 2027 North American Tour",
+      "url": "https://exclaim.ca/music/article/remi-wolf-books-2027-north-american-tour",
+      "date": "2026-10-09",
+      "summary": "It's release day for Remi Wolf, who is celebrating the release of her album 'Mud' by announcing a North American tour. After finishing 2026"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Kardinal Offishall Says He's Releasing a Collaborative Album with Idris Elba",
+      "url": "https://exclaim.ca/music/article/kardinal-offishall-says-he-s-releasing-a-collaborative-album-with-idris-elba",
+      "date": "2026-10-09",
+      "summary": "Kardinal Offishall only just released his new album, Firestarter 'Vol. 2: Everyday, Sometimes…,' but he's already lined up another one: a"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Instagram Is Sorry for Trying to Take You Higher",
+      "url": "https://exclaim.ca/music/article/instagram-is-sorry-for-trying-to-take-you-higher",
+      "date": "2026-10-09",
+      "summary": "For the modern person looking to be taken higher, the obvious first step is to open the Instagram app. The algorithm is getting pretty"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "'Your Mother Your Mother Your Mother' Is Riveting Riveting Riveting",
+      "url": "https://exclaim.ca/film/article/tiff-2026-your-mother-your-mother-your-mother-film-review",
+      "date": "2026-10-09",
+      "summary": "According to an Islamic hadith, the Prophet Muhammad teaches that a mother should be prioritized three times more than the father when it"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Judas Priest's Ian Hill Announces Retirement Due to Arthritis",
+      "url": "https://exclaim.ca/music/article/judas-priest-s-ian-hill-announces-retirement-due-to-arthritis",
+      "date": "2026-10-09",
+      "summary": "Judas Priest's longest-serving member, bassist Ian Hill, has announced his retirement from the band due to the progression of his arthritis"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Geordie Greep Addressed Sexual Assault Accusations During Vancouver Show",
+      "url": "https://exclaim.ca/music/article/geordie-greep-addressed-sexual-assault-accusations-during-vancouver-show",
+      "date": "2026-10-09",
+      "summary": "Geordie Greep addressed accusations of rape from the stage last night (October 8) during his Vancouver show at the Pearl. According to"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "This Week's Funny Music Memes Have a Boyfriend Who Lives in Canada: October 9, 2026",
+      "url": "https://exclaim.ca/comedy/article/funny-music-memes-of-the-week-october-9-2026",
+      "date": "2026-10-09",
+      "summary": "I didn't expect to spend all week looking at Skyler Gisondo's face, but the internet is full of surprises! In this week's roundup of the"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Nickelback Book Canadian Dates on Sprawling 2027 Tour",
+      "url": "https://exclaim.ca/music/article/nickelback-book-canadian-dates-on-sprawling-2027-tour",
+      "date": "2026-10-09",
+      "summary": "Lovably hateable butt rockers Nickelback have announced a 2027 tour in support of their new album 'Everything Under the Sun.' In addition"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "This Week's New Tours, Including Backstreet Boys, Fontaines D.C. and Simple Plan: October 9, 2026",
+      "url": "https://exclaim.ca/music/article/this-week-s-new-tours-including-backstreet-boys-fontaines-d-c-and-simple-plan-october-9-2026",
+      "date": "2026-10-09",
+      "summary": "Backstreet's back — alright? — and so are the newly announced tours coming to Canada, including the Backstreet Boys' eight-day Toronto"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "New Album Releases for October 9, 2026: Cameron Winter, Troye Sivan, Remi Wolf and More",
+      "url": "https://exclaim.ca/music/article/new-album-releases-masterlist",
+      "date": "2026-10-09",
+      "summary": "So many album releases, so little time. It goes without saying that there is an absolute wealth of new music being released on a weekly"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Canada Still Hasn't Caught Up to Gayance",
+      "url": "https://exclaim.ca/music/article/gayance-interview-roaming",
+      "date": "2026-10-09",
+      "summary": "Gayance is nothing if not well-travelled. After years establishing herself as an ever-present force in Montreal's famous early 2010s beat"
+    },
+    {
+      "source": "daily.bandcamp.com",
+      "title": "Particle Acceleration: Pitchblende Reclaim Their Legacy",
+      "url": "https://daily.bandcamp.com/features/pitchblende-feature",
+      "date": "2026-10-08",
+      "summary": "The D.C. quartet approached noise rock with a sense of sublime geekery. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "daily.bandcamp.com",
+      "title": "Still Modern: Dave Holland at 80",
+      "url": "https://daily.bandcamp.com/features/dave-holland-interview",
+      "date": "2026-10-08",
+      "summary": "The legendary bassist reflects on Miles Davis, his great working bands, and decades of making music. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "daily.bandcamp.com",
+      "title": "Various Artists, “Antiyano Progresivo: Musical Experiments from the Former Dutch Caribbean, 1968-1986”",
+      "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-antiyano-progresivo-review",
+      "date": "2026-10-08",
+      "summary": "A new comp from Soundway unearths the Caribbean’s psychedelic underground. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Wilco & Billy Bragg’s Mermaid Avenue: The Complete Sessions Gets More Complete With Expanded New Box Set",
+      "url": "https://stereogum.com/2514018/wilco-billy-braggs-mermaid-avenue-the-complete-sessions-gets-more-complete-with-expanded-new-box-set/music/",
+      "date": "2026-10-08",
+      "summary": "In 1998, between their first masterpiece Being There and their next masterpiece Summerteeth , Wilco teamed up with the English folksinger Billy Bragg to release Mermaid Avenue , a batch of newly written songs built from old unused Woody Guthrie lyrics. It's where Wilco got \"California Stars,\" a perennial live staple, and they followed it up in 2000 with Mermaid Ave. Vol. II . The original album ca"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Dua Lipa Eats Hot Dog",
+      "url": "https://stereogum.com/2514009/dua-lipa-eats-hot-dog/news/",
+      "date": "2026-10-08",
+      "summary": "Dua Lipa had a definitively American experience Wednesday night. The British pop star and her husband Callum Turner attended the Yankees-Rays playoff game at Yankee Stadium, which ended with the once-mighty Yanks crashing out of the postseason yet again. More importantly, it was Dua Lipa's first baseball game, during which she ate her first hot dog. The post Dua Lipa Eats Hot Dog appeared first on"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Gay Meat – “Leslie”",
+      "url": "https://stereogum.com/2513978/gay-meat-leslie/music/",
+      "date": "2026-10-08",
+      "summary": "In April, North Carolina's Karl Kuehn, who records under the moniker Gay Meat, released his debut album Blue Water . The project is a loving reflection of passing time and the increasing weight of impending grief. On Wednesday, Gay Meat returned with \"Leslie,\" a new song that was written for Blue Water but didn't make the final cut. It's precious and devastating. The post Gay Meat – “Leslie” appea"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "John Glacier – “Lights”",
+      "url": "https://stereogum.com/2513945/john-glacier-lights/music/",
+      "date": "2026-10-08",
+      "summary": "The seamlessly cool producer/artist John Glacier, who released one of our favorite albums last year, is back with her second single of the year. \"Lights,\" the follow-up to this summer's \" Bond Girl ,\" finds Glacier relishing a life of luxury. The post John Glacier – “Lights” appeared first on Stereogum ."
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Weathering The Storm With Johnny Blue Skies & The Dark Clouds",
+      "url": "https://stereogum.com/2513981/weathering-the-storm-with-johnny-blue-skies-the-dark-clouds/reviews/concert-review/",
+      "date": "2026-10-08",
+      "summary": "Johnny Blue Skies & The Dark Clouds entered the stage to the sound of a heavy descending guitar riff like something out of a doom metal track. Then the disco ball turned on, and Sturgill Simpson started playing a smoky blues guitar solo over jazz chords. The introduction then resolved in the funky syncopated groove of “Venus,” which was soon graced by the hearty twang of Simpson’s voice, country t"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Steve Martin, Alison Brown, Del McCoury, & Dan Tyminski Cover Lil Nas X’s “Old Town Road”",
+      "url": "https://stereogum.com/2513990/steve-martin-alison-brown-del-mccoury-dan-tyminski-cover-lil-nas-xs-old-town-road/music/",
+      "date": "2026-10-08",
+      "summary": "Last year comedy legend Steve Martin teamed with his fellow banjo player Alison Brown on an album called Safe, Sensible And Sane . They're continuing to work together, and today they've brought some more bluegrass titans into their midst to cover... Lil Nas X? The post Steve Martin, Alison Brown, Del McCoury, & Dan Tyminski Cover Lil Nas X’s “Old Town Road” appeared first on Stereogum ."
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Rosalía Says Bono Invented New Spanish Words For U2’s Tribute Song About Her",
+      "url": "https://stereogum.com/2513974/rosalia-says-bono-invented-new-spanish-words-for-u2s-tribute-song-about-her/news/",
+      "date": "2026-10-08",
+      "summary": "Wednesday night, Rosalía was a guest on The Tonight Show With Jimmy Fallon . Within the first couple of minutes in their chat, Fallon brought up that U2's forthcoming album Carnaval de Luz includes a song about the Spanish pop star, \"The Mirror Maker (Rosalía).\" The post Rosalía Says Bono Invented New Spanish Words For U2’s Tribute Song About Her appeared first on Stereogum ."
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Ex:Re – “Sleep”",
+      "url": "https://stereogum.com/2513964/exre-sleep/music/",
+      "date": "2026-10-08",
+      "summary": "At the end of this month, Elena Tonra who leads the indie-folk trio Daughter, is dropping a new album under another project Ex:Re, titled Save As . She's already released the lead track \"Radio Station,\" and earlier this week, she shared the follow-up single \"Sleep.\" The post Ex:Re – “Sleep” appeared first on Stereogum ."
+    },
+    {
+      "source": "stereogum.com",
+      "title": "They Are Gutting A Body Of Water – “illusion hue” (Feat. Toner) & “am i wrong” (Feat. A Country Western & Dead Sullivan)",
+      "url": "https://stereogum.com/2513962/they-are-gutting-a-body-of-water-illusion-hue-feat-toner-am-i-wrong-feat-a-country-western-dead-sullivan/music/",
+      "date": "2026-10-08",
+      "summary": "They Are Gutting A Body Of Water, the prolific Philly underground heroes, are always cooking up something. Next week, they'll release KOOL FAITH / LOOSIES II , a new guest-heavy 29 track mixtape that includes collaborations with people like RXKNephew, Greg Mendez, Spirit Of The Beehive, and Hotline TNT. When they announced the tape last month, they shared three songs . With the release coming up q"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Classic Traffic – “Ghost’s Host”",
+      "url": "https://stereogum.com/2513958/classic-traffic-ghosts-host/music/",
+      "date": "2026-10-08",
+      "summary": "\"Ghost's Host\": That's not a song title that I ever want to try to say out loud. It would be a disaster. Those words would trip all over themselves coming out of my mouth. But New Jersey power-pop stompers Classic Traffic are brave enough to use that impossible-to-pronounce title from their latest single, a bittersweet midtempo rocker with an adrenaline-charged fists-up chorus. The post Classic Tr"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Jess Kerber – “Louisiana Song”",
+      "url": "https://stereogum.com/2513949/jess-kerber-louisiana-song/music/",
+      "date": "2026-10-08",
+      "summary": "The house where you lived when you were a kid: Do you still live there? Does anyone in your family still live there? Is the house still standing? Last year, my wife's parents sold the house that the family inhabited for decades, and the person who bought it demolished the building and put a McMansion there. It was pretty sad! It would be sadder still if rising floodwaters were to absolutely wipe t"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Nikki Nair Announces New EP Majestic Animals: Hear “Groundhogs”",
+      "url": "https://stereogum.com/2513942/nikki-nair-announces-new-ep-majestic-animals-hear-groundhogs/music/",
+      "date": "2026-10-08",
+      "summary": "Over the last few years, Atlanta-based dance producer Nikki Nair has collaborated with people like Hudson Mohawke and the Avalanches . A couple of months ago, he released an EP called The Sick Dimension on dh2, George Daniel's dance-focused Dirty Hit imprint. Now, he's getting ready to release another EP on a different label. The post Nikki Nair Announces New EP <em>Majestic Animals</em>: Hear “Gr"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Lana Del Rey, Morgan Wallen, & Lana Del Rey’s Husband Will Host A GTA VI In-Game Radio Station",
+      "url": "https://stereogum.com/2513937/lana-del-rey-morgan-wallen-lana-del-reys-husband-will-host-a-gta-vi-in-game-radio-station/news/",
+      "date": "2026-10-08",
+      "summary": "Lana Del Rey has been threatening to go country for several years now, and it hasn't quite happened yet. At a 2024 pre-Grammy party, Del Rey announced plans for a country album, which was going to be called Lasso . Since then, she's released a few singles, and she also sang about kissing Morgan Wallen on a still-unreleased song that she debuted at the country-centric Stagecoach Festival last year."
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Thom Yorke Tells Harry Styles He Wishes He Hadn’t Written “High And Dry”",
+      "url": "https://stereogum.com/2513933/thom-yorke-tells-harry-styles-he-wishes-he-hadnt-written-high-and-dry/news/",
+      "date": "2026-10-08",
+      "summary": "Hey, you know Radiohead's 1995 single \"High And Dry\"? Good song! Very pretty! Very achy! You could certainly argue that it's one of the most conventional songs that Radiohed ever recorded, but that doesn't make it bad . Thom Yorke may feel differently, though. Radiohead haven't performed \"High And Dry\" since 1998, which would certainly imply that it's not one of their favorites. Also, Yorke straig"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Lifeloose – “07XXXXXXXXX”",
+      "url": "https://stereogum.com/2513929/lifeloose-07xxxxxxxxx/music/",
+      "date": "2026-10-08",
+      "summary": "Aldi Ho and Josie Silverman, the two members of the UK electroclash duo Lifeloose, met while studying opera and electronic music, respectively, at London's Guildhall Middle School. Apparently, they became a live sensation before they even released anything, and they finally dropped their debut single, which is also called \" Lifeloose ,\" earlier this year. Today, they follow that one up with a new "
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Turnstile Announce Free Benefit Show At The Washington Monument",
+      "url": "https://stereogum.com/2513909/turnstile-announce-free-benefit-show-at-the-washington-monument/news/",
+      "date": "2026-10-08",
+      "summary": "This is going to be something special. In a few weeks, Turnstile will play a free public outdoor show on the National Lawn in Washington, DC. The performance goes down at 3 p.m. on Oct. 24. While there's no admission fee, the event will still be a benefit, with Human Concern International , the charitable organization hosting the gig, raising funds for humanitarian efforts in Palestine, Sudan, and"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Ebbb – “Public”",
+      "url": "https://stereogum.com/2513923/ebbb-public/music/",
+      "date": "2026-10-08",
+      "summary": "I love it when I hear a song that fits into absolutely no known genre rubric and I have to invent some new combination of words to describe it. For instance, if I told you that the London trio Ebbb's new single \"Public\" is dreamy chamber-rage, would that even mean anything to you? Do you think that'll catch on? Or do I have to come up with a stupid nonsense word like blinggaze or something? The po"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Parquet Courts’ Andrew Savage Launches New Band Iconic Fugues With “2025 Dream/2025 Blues”",
+      "url": "https://stereogum.com/2513919/parquet-courts-andrew-savage-launches-new-band-iconic-fugues-with-2025-dream-2025-blues/music/",
+      "date": "2026-10-08",
+      "summary": "Andrew Savage has a new band. The Parquet Courts member, sometimes known to release solo joints under the name A. Savage, has launched Iconic Fugues today with debut single \"2025 Dream/2025 Blues.\" It's a shuffling folk-rock track that technically encompasses two songs' worth of lyrics, though it plays as one seamless six-minute piece. The post Parquet Courts’ Andrew Savage Launches New Band Iconi"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Grouper’s Liz Harris Announces Music For Two Films About Water, Shares 22-Minute Track",
+      "url": "https://stereogum.com/2513917/groupers-liz-harris-announces-music-for-two-films-about-water-shares-22-minute-track/music/",
+      "date": "2026-10-08",
+      "summary": "Since 2005, the Portland musician Liz Harris has been making entrancing, quietly experimental music under the name Grouper. She's a mood-conjurer and a cult hero, and she sounds like nobody else. On the rare occasions that she plays live, it's a big deal. (She just did a short North American tour last month.) Harris has a few other musical projects, as well. Last week, her dream-pop trio Helen ret"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "David Byrne & Daniel Pemberton Release Elon Musk Doc Song “Let Me Sell You A Dream”",
+      "url": "https://stereogum.com/2513912/david-byrne-daniel-pemberton-release-elon-musk-doc-song-let-me-sell-you-a-dream/music/",
+      "date": "2026-10-08",
+      "summary": "About a month ago we learned that David Byrne composer Daniel Pemberton had written a song using only Elon Musk quotes for the soundtrack to Musk , the new Musk documentary from director Alex Gibney, whose previous subjects include Scientology ( Going Clear ), Elizabeth Holmes ( The Inventor ), and Enron ( The Smartest Guys In The Room ). That song is out today, a day ahead of the film's theatrica"
+    },
+    {
+      "source": "stereogum.com",
+      "title": "Jimmy Eat World Library Cards Are Coming To Mesa, AZ",
+      "url": "https://stereogum.com/2513907/jimmy-eat-world-library-cards-are-coming-to-mesa-az/news/",
+      "date": "2026-10-08",
+      "summary": "Jimmy Eat World have been celebrating the 25th anniversary of Bleed American all year. On Monday, they revealed one more unique element of the festivities: special edition library cards. The post Jimmy Eat World Library Cards Are Coming To Mesa, AZ appeared first on Stereogum ."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "Linda’s Head",
+      "url": "https://pitchfork.com/reviews/albums/helen-lindas-head/",
+      "date": "2026-10-08",
+      "summary": "Over a decade since its debut, the shoegaze trio fronted by Grouper’s Liz Harris returns for a brisk new album with its eyes trained on the sky."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "BULLDOZER!!",
+      "url": "https://pitchfork.com/reviews/albums/mnek-bulldozer/",
+      "date": "2026-10-08",
+      "summary": "On their second album, the London-based producer and songwriter offers bold, hook-heavy club pop, but their lyrics about self-love and queer identity often land like platitudes."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "c",
+      "url": "https://pitchfork.com/reviews/albums/lucy-bedroque-c/",
+      "date": "2026-10-08",
+      "summary": "Like a cross between a fashionable rave and a final boss battle, the 20 year old’s latest album is both their sleekest and most overclocked, made more for mosh pits than headphone reveries."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "Bread & Butter",
+      "url": "https://pitchfork.com/reviews/albums/your-old-droog-bread-and-butter/",
+      "date": "2026-10-08",
+      "summary": "The New York rapper carves out a middle ground between belligerence and introspection on his latest record, expressing gratitude for the little things in life without sacrificing his slick wordplay."
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "'Run Terry Run' Is Worthy of Its Heroic Subject",
+      "url": "https://exclaim.ca/film/article/run-terry-run-film-review",
+      "date": "2026-10-08",
+      "summary": "It's nearly impossible not to know the story of Terry Fox if you're Canadian. The 143 days and 5,373 kilometres he ran starting on April 12"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Baby Jane Plots North American Tour",
+      "url": "https://exclaim.ca/music/article/baby-jane-plots-north-american-tour",
+      "date": "2026-10-08",
+      "summary": "Supporting her recent sophomore album 'Winter Forever,' Los Angeles-based electronic pop producer/singer-songwriter Baby Jane has announced"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Loretta Lynn's 'Van Lear Rose' Gets Expanded Reissue, Returns to Streaming",
+      "url": "https://exclaim.ca/music/article/loretta-lynn-s-van-lear-rose-gets-expanded-reissue-returns-to-streaming",
+      "date": "2026-10-08",
+      "summary": "Country great Loretta Lynn had a late-career return to the zeitgeist with 'Van Lear Rose,' her 2004 team-up with Jack White. Now, Third Man"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Cameron Winter's Whims Migrate Unmitigated with 'Live at Carnegie Hall'",
+      "url": "https://exclaim.ca/music/article/cameron-winter-live-at-carnegie-hall-album-review",
+      "date": "2026-10-08",
+      "summary": "Coming into the holiday 2025 season, you couldn't blame Cameron Winter for thinking he could do anything. After all, his band Geese's"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Leon Bridges Books 'Happiness Anytime' North American Tour",
+      "url": "https://exclaim.ca/music/article/leon-bridges-books-happiness-anytime-north-american-tour",
+      "date": "2026-10-08",
+      "summary": "Fresh off the release of his latest record 'Happiness Anytime,' Leon Bridges has announced a North American tour that will bring him to four"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Kelela's Otherworldly Vision Came to Life in Toronto",
+      "url": "https://exclaim.ca/music/article/kelela-new-avatar-toronto-concert-review",
+      "date": "2026-10-08",
+      "summary": "Every artist says they have the best fans, but Kelela might have a legitimate claim to that title. In all my years going to the Danforth"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Winterruption YEG Announces 2027 Lineup, Including Shout Out Out Out Out's Comeback",
+      "url": "https://exclaim.ca/music/article/winterruption-yeg-announces-2027-lineup-including-shout-out-out-out-out-s-comeback",
+      "date": "2026-10-08",
+      "summary": "The cold Edmonton winter is being interrupted with Winterruption YEG, which has announced the lineup for its seventh annual festival"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "KATSEYE's Sophia Laforteza to Return to Group in January",
+      "url": "https://exclaim.ca/music/article/katseye-s-sophia-laforteza-taking-a-step-back-to-focus-on-mental-health-and-wellness",
+      "date": "2026-10-08",
+      "summary": "KATSEYE have already been operating at a deficit since February, when member Manon Bannerman announced a temporary hiatus from the global"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Daniel Romano Announces New Project Briar, Books 2026 Tour Dates in Support of New Album 'Aeterna Memoria'",
+      "url": "https://exclaim.ca/music/article/daniel-romano-announces-new-project-briar-books-2026-tour-dates",
+      "date": "2026-10-08",
+      "summary": "Daniel Romano is a man of many different hats and many different outfits — last week, he announced via social media that he's got a new"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Def Leppard Announce 2027 North American Tour",
+      "url": "https://exclaim.ca/music/article/def-leppard-announce-2027-north-american-tour",
+      "date": "2026-10-08",
+      "summary": "This ought to pour some sugar on your morning: Def Leppard have announced a 2027 North American tour with Goo Goo Dolls and the Struts"
+    },
+    {
+      "source": "feeds.feedburner.com",
+      "title": "Carly Rae Jepsen Discusses Bieber's Birthday and Canada's Unique Smell",
+      "url": "https://exclaim.ca/music/article/carly-rae-jepsen-interview-exclaim-questionnaire-day-and-night",
+      "date": "2026-10-08",
+      "summary": "Carly Rae Jepsen admits she's honestly not sure how her new album, 'Day and Night,' has been received, so I tell her what seems pertinent"
+    },
+    {
+      "source": "daily.bandcamp.com",
+      "title": "wherethetimegoes and the Sound of Celtic Futurism",
+      "url": "https://daily.bandcamp.com/label-profile/wherethetimegoes-label-profile",
+      "date": "2026-10-07",
+      "summary": "The Dublin label looks back on the records, relationships, and restless experimentation that shaped its first decade. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "daily.bandcamp.com",
+      "title": "Underground Medicine #7: Region Rock, USA",
+      "url": "https://daily.bandcamp.com/underground-medicine/underground-medicine-7",
+      "date": "2026-10-07",
+      "summary": "Mapping out punk scenes archives from around the United States, alive and well on Bandcamp. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "daily.bandcamp.com",
+      "title": "Helen, “Linda’s Head”",
+      "url": "https://daily.bandcamp.com/album-of-the-day/helen-lindas-head-review",
+      "date": "2026-10-07",
+      "summary": "The first new record from Liz Harris of Grouper's rock trio plays at being primitive while keeping one eye on the transcend. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "stereogum.com",
+      "title": "The War On Drugs’ Robbie Bennett Announces Two New Double Albums Steloken & Circulation: Hear Two Tracks",
+      "url": "https://stereogum.com/2513903/the-war-on-drugs-robbie-bennett-announces-two-new-double-albums-steloken-circulation-hear-two-tracks/music/",
+      "date": "2026-10-07",
+      "summary": "The War On Drugs seem to be finally building towards a new album cycle, but for now we don't have any information about the follow-up to 2021's I Don't Live Here Anymore . What we can tell you about are two new double albums from War On Drugs member Robbie Bennett. The post The War On Drugs’ Robbie Bennett Announces Two New Double Albums <em>Steloken</em> & <em>Circulation</em>: Hear Two Tracks ap"
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "QRÖMELIFE",
+      "url": "https://pitchfork.com/reviews/albums/quavo-qromelife/",
+      "date": "2026-10-07",
+      "summary": "Quavo feels like an afterthought on his own new solo album, which suffers from phoned-in Pharrell beats, weak features, and exhausting levels of brand placement."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "Frequency of Love",
+      "url": "https://pitchfork.com/reviews/albums/victoria-monet-frequency-of-love/",
+      "date": "2026-10-07",
+      "summary": "The singer and songwriter’s sprawling, meticulously polished new album stretches out with swoony ballads, cinematic strings, and timeless quiet storm."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "my own fairytale",
+      "url": "https://pitchfork.com/reviews/albums/klein-my-own-fairytale/",
+      "date": "2026-10-07",
+      "summary": "The South London artist channels Disney soundtrack tropes into claustrophobic strings and drones, while a handful of vocal tracks hint darkly at real-world family drama."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "I Don’t Wanna Say Goodbye",
+      "url": "https://pitchfork.com/reviews/albums/haywire-i-dont-wanna-say-goodbye/",
+      "date": "2026-10-07",
+      "summary": "The Boston hardcore band aims at wider audiences on a sweetly melodic breakup album that burns as hot and fast as the ill-fated relationship it describes."
+    },
+    {
+      "source": "daily.bandcamp.com",
+      "title": "Chyna Baejing Contains Multitudes",
+      "url": "https://daily.bandcamp.com/features/chyna-baejing-interview",
+      "date": "2026-10-06",
+      "summary": "Assistant Principal by day, rapper by night, the Lynn artist weaves scholarship through everything she does. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "daily.bandcamp.com",
+      "title": "IVM Trio, “Explain Yourselves”",
+      "url": "https://daily.bandcamp.com/album-of-the-day/ivm-trio-explain-yourselves-review",
+      "date": "2026-10-06",
+      "summary": "Post-club music through the looking glass. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "daily.bandcamp.com",
+      "title": "M. Geddes Gengras Is Still Figuring It Out",
+      "url": "https://daily.bandcamp.com/lists/m-geddes-gengras-album-guide",
+      "date": "2026-10-06",
+      "summary": "For the synth wizard, the journey is as important as the destination. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "All Set the Bone",
+      "url": "https://pitchfork.com/reviews/albums/greg-freeman-all-set-the-bone/",
+      "date": "2026-10-06",
+      "summary": "The indie rock songwriter’s latest album is menacing and ambitious, overflowing with quotable lyrics and the feverish energy of something about to fall apart."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "Hotel Usona",
+      "url": "https://pitchfork.com/reviews/albums/protomartyr-hotel-usona/",
+      "date": "2026-10-06",
+      "summary": "You can check out but you’ll never leave the Detroit post-punks’ new concept album, which grimly parodies the United States’ ugliest realities as odious guests at a cursed hotel."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "My World",
+      "url": "https://pitchfork.com/reviews/albums/jam-city-my-world/",
+      "date": "2026-10-06",
+      "summary": "The UK avant-dance producer has spent recent years wandering pop music’s hinterlands, but he sounds reenergized on his latest amalgam of ’80s-tinged club, pop, and R&B."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "Not Normal",
+      "url": "https://pitchfork.com/reviews/albums/cara-delevingne-not-normal/",
+      "date": "2026-10-06",
+      "summary": "As it flashes from synth-pop experimentation to introspective balladry to heavy distortion, the model and actress’ debut LP is both intriguing and exhausting."
+    },
+    {
+      "source": "daily.bandcamp.com",
+      "title": "Spotlight on Hurdy-Gurdy",
+      "url": "https://daily.bandcamp.com/lists/hurdy-gurdy-album-guide",
+      "date": "2026-10-05",
+      "summary": "An ancient instrument finds its place in all styles of contemporary music. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "daily.bandcamp.com",
+      "title": "Behind The Iron Curtain, Maťkovia Staged A Post-Punk Revolution",
+      "url": "https://daily.bandcamp.com/features/matkovia-1982-1986-feature",
+      "date": "2026-10-05",
+      "summary": "The Slovak band spent 40 years hiding from the censors; now, their music is finally seeing the light of day. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "daily.bandcamp.com",
+      "title": "Head Phone Home: The Yummy Fur Rings Again",
+      "url": "https://daily.bandcamp.com/features/the-yummy-fur-everybody-talks-about-the-weather-feature",
+      "date": "2026-10-05",
+      "summary": "Fixtures of the late '90s indie scene in Glasgow, the Yummy Fur return with a triumphant new record. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "daily.bandcamp.com",
+      "title": "Yayoba, “Matkat”",
+      "url": "https://daily.bandcamp.com/album-of-the-day/yayoba-matkat-review",
+      "date": "2026-10-05",
+      "summary": "Three musical explorers chart strange terrain. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "Cyano",
+      "url": "https://pitchfork.com/reviews/albums/emily-a-sprague-cyano/",
+      "date": "2026-10-05",
+      "summary": "The Florist musician’s latest ambient release blends her intuitive, associative songwriting with her increasingly immersive voice as a composer for modular synth."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "B0YG1RL",
+      "url": "https://pitchfork.com/reviews/albums/b0yg1rl-b0yg1rl/",
+      "date": "2026-10-05",
+      "summary": "The Miami experimental dance duo’s new album pushes their capricious, explosive mix of bouyon, synth-pop, and electroclash to anxious extremes."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "Decay",
+      "url": "https://pitchfork.com/reviews/albums/godflesh-decay/",
+      "date": "2026-10-05",
+      "summary": "For decades, industrial metal titan Justin K. Broadrick screamed so hard that it shredded his insides. He softens his attack on the band’s penultimate album, but they’re not going out gently."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "The Old Beloved Path",
+      "url": "https://pitchfork.com/reviews/albums/jake-xerxes-fussell-the-old-beloved-path/",
+      "date": "2026-10-05",
+      "summary": "The North Carolina folk musician pulls from centuries-old ballads and blues standards for a meditative set full of drifters, sailors, and wistful travelers."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "Beat",
+      "url": "https://pitchfork.com/reviews/albums/bowery-electric-beat/",
+      "date": "2026-10-04",
+      "summary": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the New York duo’s brilliant second album, a synthesis of shoegaze, ambient, and trip-hop that permeated the boundaries of rock and electronic music."
+    },
+    {
+      "source": "pitchfork.com",
+      "title": "My Aim Is True (49th Anniversary Edition)",
+      "url": "https://pitchfork.com/reviews/albums/elvis-costello-my-aim-is-true-49th-anniversary-edition/",
+      "date": "2026-10-03",
+      "summary": "A 104-track box set fleshes out the seemingly out-of-nowhere brilliance of Elvis Costello’s debut: a portrait of the artist as a fidgety young man, trying on literal and figurative hats."
+    },
     {
       "source": "daily.bandcamp.com",
       "title": "The Best Electronic Music on Bandcamp, September 2026",
@@ -32,125 +823,6 @@
       "url": "https://daily.bandcamp.com/album-of-the-day/stef-chura-dancing-alone-on-the-concrete-review",
       "date": "2026-10-02",
       "summary": "The Detroit artist puts the weight of experience into her torchy third full-length. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Alex Lahey Shares Previously Unreleased Songs On Garage Sale [Vol. 1] EP",
-      "url": "https://stereogum.com/2513470/alex-lahey-shares-previously-unreleased-songs-on-garage-sale-vol-1-ep/music/",
-      "date": "2026-10-02",
-      "summary": "In 2023, Alexa Lahey released her latest album The Answer Is Always Yes . Since then, the Australian singer-songwriter has shared a deluxe version , as well as some songs and collaborations , including one with Tegan And Sara . Now, she's back with the Garage Sale [Vol. 1] EP. The post Alex Lahey Shares Previously Unreleased Songs On <em>Garage Sale [Vol. 1]</em> EP appeared first on Stereogum ."
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Stray Kids Are Also Boycotting The Grammys",
-      "url": "https://stereogum.com/2513457/stray-kids-are-also-boycotting-the-grammys/news/",
-      "date": "2026-10-02",
-      "summary": "Back in July, the massively popular K-pop boy band BTS announced that they are boycotting next year's Grammys and refusing to submit any of their music for award consideration. This was a big pivot for the group, who performed on multiple Grammy telecasts and frequently talked about how badly they wanted to win one. (They've been nominated for five awards, but they've never won.) Now, Stray Kids, "
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Ryan Hemsworth – “Never Learned” (Feat. Tegan And Sara)",
-      "url": "https://stereogum.com/2513450/ryan-hemsworth-never-learned-feat-tegan-and-sara/music/",
-      "date": "2026-10-02",
-      "summary": "Ryan Hemsworth, now part of the Topshelf Records family, is ramping up to the release of his new album Numbskull . Early returns were strong , and that was before we got to hear the contributions from high-profile guests Tegan And Sara, MSPAINT, and Illuminati Hotties. The post Ryan Hemsworth – “Never Learned” (Feat. Tegan And Sara) appeared first on Stereogum ."
-    },
-    {
-      "source": "stereogum.com",
-      "title": "DIIV – “Trillions”",
-      "url": "https://stereogum.com/2513448/diiv-trillions/music/",
-      "date": "2026-10-02",
-      "summary": "\"DIIV GOES POP.\" We know that's true because it says so on the cover of the Rolling Stone . The fictional Rolling Stone , anyway. Probably not the real one. I haven't checked. In the video for DIIV's new song \"Trillions,\" the members of the band rock expensive suits, lounge around glamorous and expensive-looking residences, fan themselves with crisp $20 bills, and read magazine stories about their"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "King Hüsky – “Punks In The Beerlight” (Silver Jews Cover)",
-      "url": "https://stereogum.com/2513433/king-husky-punks-in-the-beerlight-silver-jews-cover/music/",
-      "date": "2026-10-02",
-      "summary": "Everyone loves David Berman. The late, great Silver Jews/Purple Mountains auteur commanded a faithful audience in his lifetime, but he increasingly feels like the most influential figure in 2020s indie rock. That apparently extends to artists outside the rugged, oblique, country-fried bands directly in Berman's sphere of influence. The post King Hüsky – “Punks In The Beerlight” (Silver Jews Cover)"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Secrecy Announce Debut EP Winter In A&E: Hear “Knife In My Dreams”",
-      "url": "https://stereogum.com/2513437/secrecy-announce-debut-ep-winter-in-ae-hear-knife-in-my-dreams/music/",
-      "date": "2026-10-02",
-      "summary": "Secrecy: Good name for a punk band! It calls to mind the Germs' \"What We Do Is Secret,\" as well as the general sense of a hidden underground world that regards outsiders with suspicion. London's appropriately mysterious Secrecy have a big, propulsive sound — coarse hardcore vocals, reverb-drenched guitar jangle, booming drums. They bring a sense of frenetic darkness that recalls the moment that go"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Way Dynamic Is Letting It Flow, And Good Things Are Happening",
-      "url": "https://stereogum.com/2513302/way-dynamic-is-letting-it-flow-and-good-things-are-happening/interviews/qa/",
-      "date": "2026-10-02",
-      "summary": "Way Dynamic is a funny moniker for a band so chill. Dylan Young has been recording under that name since his university days at RMIT in Melbourne about a decade ago, and the project has ramped up in the 2020s with a trio of albums crafted in tandem with Good Morning's Stefan Blair. But things really picked up with last year's Massive Shoe , a casually excellent '60s and '70s throwback that evokes "
-    },
-    {
-      "source": "stereogum.com",
-      "title": "brakence Announces New Album marroW: Hear “crystallized” & “death rolL”",
-      "url": "https://stereogum.com/2513424/brakence-announces-new-album-marrow-hear-crystallized-death-roll/music/",
-      "date": "2026-10-02",
-      "summary": "\" ready or noT ,\" a new brakence album is coming sooN. After dropping a new single last week, the Columbus digicore star announced his forthcoming LP marroW on Tuesday. Today we get two more trackS ahead of the project's release three weeks from now. The post brakence Announces New Album <em>marroW</em>: Hear “crystallized” & “death rolL” appeared first on Stereogum ."
-    },
-    {
-      "source": "stereogum.com",
-      "title": "The Rolling Stones Share Bonus Track With Charlie Watts, Music Video With Alexander Skarsgård",
-      "url": "https://stereogum.com/2513417/the-rolling-stones-share-bonus-track-with-charlie-watts-music-video-with-alexander-skarsgard/music/",
-      "date": "2026-10-02",
-      "summary": "Foreign Tongues , the new album from the Rolling Stones, is merely the latest in the string of late-career Stones records that are way, way more impressive than they had to be. The LP came out in July, but its rollout isn't finished yet. Foreign Tongues did not feature the strutting Mick Jagger/Keith Richards duet \"Bad Luck Hideaway,\" one of the songs that the band recorded with their late drummer"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Fog Lake Announces New Album Hollowbody: Hear “Bogus”",
-      "url": "https://stereogum.com/2513384/fog-lake-announces-new-album-hollowbody-hear-bogus/music/",
-      "date": "2026-10-02",
-      "summary": "Fog Lake, the the project of Montreal-based, Newfoundland-raised musician Aaron Powell, is back. Today, he's announced his seventh album Hollowbody , the follow-up to 2023's Midnight Society , with the new single \"Bogus.\" The new album is out next month. The post Fog Lake Announces New Album <em>Hollowbody</em>: Hear “Bogus” appeared first on Stereogum ."
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Bucket – “Strung Out”",
-      "url": "https://stereogum.com/2513371/bucket-strung-out/music/",
-      "date": "2026-10-02",
-      "summary": "Bucket are an experimental noise-rock trip from Dublin featuring vocalist Cian Dahdouh, bassist Emmet McNamee, and drummer Korey O'Bryne. In April, they released a tattered and deranged EP Mosaic . Today, they've returned with a new single \"Strung Out.\" It's enraged and venomous. It's great. The post Bucket – “Strung Out” appeared first on Stereogum ."
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Olivia Dean Song Accused of Copying Bill Withers Hit in New Lawsuit",
-      "url": "https://stereogum.com/2513407/olivia-dean-song-accused-of-copying-bill-withers-hit-in-new-lawsuit/news/",
-      "date": "2026-10-02",
-      "summary": "In 1980, the soul great Bill Withers teamed up with jazz saxophonist Grover Washington, Jr. to release the heartfelt love song \"Just The Two Of Us.\" It's technically Washington's song, as it came out in his album Winelight , but Withers co-wrote it with Ralph MacDonald and William Salter, and his vocal is the part that everyone remembers. \"Just The Two Of Us\" was a major hit upon release, reaching"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Metallica Kick Off Sphere Residency With “…And Justice For All” For The First Time In 12 Years",
-      "url": "https://stereogum.com/2513357/metallica-kick-off-sphere-residency-with-and-justice-for-all-for-the-first-time-in-12-years/news/",
-      "date": "2026-10-02",
-      "summary": "Thursday night, Metallica kicked off their Life Burns Faster residency at Sphere in Las Vegas. Their 16-song set featured some insane visuals, as well as some cuts the band hadn’t revisited in years. They’re the first metal band to play Sphere. The post Metallica Kick Off Sphere Residency With “…And Justice For All” For The First Time In 12 Years appeared first on Stereogum ."
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Ogbert The Nerd – “Stapler”",
-      "url": "https://stereogum.com/2513394/ogbert-the-nerd-stapler/music/",
-      "date": "2026-10-02",
-      "summary": "“The only emo band from New Jersey” has returneth. Today, emo screamers Ogbert The Nerd dropped a new single, “Stapler,” their first new music since their surprise 2024 album What You Want . The new track does not disappoint. The post Ogbert The Nerd – “Stapler” appeared first on Stereogum ."
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Lee Ranaldo Sheds Light On New “Balls To The Wall” André 3000 Album",
-      "url": "https://stereogum.com/2513364/lee-ranaldo-sheds-light-on-new-balls-to-the-wall-andre-3000-album/news/",
-      "date": "2026-10-02",
-      "summary": "Earlier this year, news came out that Sonic Youth's Lee Ranaldo and André 3000 had recorded music together that was bound to come out soon. We don't have any music, but we have more information regarding the project. The post Lee Ranaldo Sheds Light On New “Balls To The Wall” André 3000 Album appeared first on Stereogum ."
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Tyler, The Creator Says His Feature On Quavo’s New Album Is One Of The Best In Rap History",
-      "url": "https://stereogum.com/2513392/tyler-the-creator-says-his-feature-on-quavos-new-album-is-one-of-the-best-in-rap-history/music/",
-      "date": "2026-10-02",
-      "summary": "What's the best rap verse of all time? There's no definitive answer to that question, and there never will be. It's all subjective, and it should be subjective. If you ask me on the right day, I might say Bun B's verse on UGK's \" Murder \" is the all-time champion. Another day, I might say it's Pimp C's verse on UGK's \" One Day \" — different rapper, different song, same group, same album. Rappers t"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Dakota Johnson & Turnstile Make Hardcore Jokes In Their SNL Promos",
-      "url": "https://stereogum.com/2513377/dakota-johnson-turnstile-make-hardcore-jokes-in-their-snl-promos/news/",
-      "date": "2026-10-02",
-      "summary": "Last week, actress and anti-limer Dakota Johnson recently shouted out Turnstile on the red carpet. This week, she's hosting SNL and they're the show's musical guest. A perfect match. They just dropped the new promo clip that features her and cast member Ben Marshall making weird jokes with the hardcore Baltimore group. The post Dakota Johnson & Turnstile Make Hardcore Jokes In Their <em>SNL</em> P"
     },
     {
       "source": "pitchfork.com",
@@ -181,209 +853,6 @@
       "summary": "Carly Bond’s magnetic voice and expert band steady her through all kinds of uncertainty on a graceful new album with vintage soul spirit."
     },
     {
-      "source": "thelineofbestfit.com",
-      "title": "CIFIKA is on the rise",
-      "url": "https://www.thelineofbestfit.com/features/interviews/cifika-on-the-rise",
-      "date": "2026-10-02",
-      "summary": "With her formative work shaped by the Korean electronic underground scene, Seoul-born DIY producer CIFIKA turned away from outside influence to trust herself on her dark experimental new EP, Old Fantasy."
-    },
-    {
-      "source": "thelineofbestfit.com",
-      "title": "Kathleen Hanna, Tom Morello, Fred Armisen, Jello Biafra among contributors to new ICE OUT compilation",
-      "url": "https://www.thelineofbestfit.com/news/kathleen-hanna-tom-morello-fred-armisen-jello-biafra-among-contributors-to-new-ice-out-compilation",
-      "date": "2026-10-02",
-      "summary": "Curated by DJ Dali, a new compilation album to raise mutual aid funds for frontline immigrant rights organisations is out today via SoundsGood Records. The laundry list of contributors to Contra-Ice Vol. 1: ICE OUT includes Kathleen Hanna, Tom Morello, Fred Armisen, and Dead Kennedys' Jello Biafra."
-    },
-    {
-      "source": "thelineofbestfit.com",
-      "title": "Madra Salach release “Ribbon Factory” as they kick off sold-out UK tour",
-      "url": "https://www.thelineofbestfit.com/news/madra-salach-release-ribbon-factory-as-they-kick-off-sold-out-uk-tour",
-      "date": "2026-10-02",
-      "summary": "Irish folk sextet Madra Salach have released a new single “Ribbon Factory” to mark the start of their completely sold-out UK headline tour."
-    },
-    {
-      "source": "thelineofbestfit.com",
-      "title": "Dani Offline tries her hand at the game of love with “ouch!”",
-      "url": "https://www.thelineofbestfit.com/tracks/dani-offline-ouch",
-      "date": "2026-10-02",
-      "summary": "Taken from the Alabama-born artist's debut record, Lovers Discourse, Dani Offline's “ouch!” is a tongue-in-cheek dissection of 21st century love and the pitfalls that come with it."
-    },
-    {
-      "source": "thelineofbestfit.com",
-      "title": "Skepta announces The Fork and Knife, first solo album in seven years",
-      "url": "https://www.thelineofbestfit.com/news/skepta-announces-the-fork-and-knife-first-solo-album-in-seven-years",
-      "date": "2026-10-02",
-      "summary": "London grime artist Skepta has announced his new album, The Fork and Knife, will be released on 6 November via Big Smoke/Epic Records. The record is his first solo full-length since 2019's Ignorance Is Bliss."
-    },
-    {
-      "source": "thelineofbestfit.com",
-      "title": "Yesteban shares “Grab” featuring Pete Doherty alongside details of debut album",
-      "url": "https://www.thelineofbestfit.com/news/yesteban-shares-grab-featuring-pete-doherty-alongside-details-of-debut-album",
-      "date": "2026-10-02",
-      "summary": "Yesteban, the solo alias of the Naive New Beaters' David Boring, has released his debut single “Grab” featuring Pete Doherty. The French electropop artist has also detailed his debut album King Boring, due 12 March via Yotanka."
-    },
-    {
-      "source": "thelineofbestfit.com",
-      "title": "Bleech 9:3 release \"Tourniquet\" single and announce biggest headline tour so far",
-      "url": "https://www.thelineofbestfit.com/news/bleech-93-release-tourniquet-single-and-announce-biggest-headline-tour-so-far",
-      "date": "2026-10-02",
-      "summary": "Irish alt-rock quartet Bleech 9:3 have released a new single, \"Tourniquet\", and announced a large run of shows for 2027, including a date at the Kentish Town Forum. The new track premiered last night as BBC Radio 1’s Hottest Record In The World."
-    },
-    {
-      "source": "thelineofbestfit.com",
-      "title": "Skinshape talks about foraging for this week's Talk The Line podcast",
-      "url": "https://www.thelineofbestfit.com/news/talk-the-line-skinshape-foraging",
-      "date": "2026-10-02",
-      "summary": "Prolific British songwriter and producer William Dorey – better known as Skinshape – talks about his passion for mushroom foraging on this week's episode of Talk The Line."
-    },
-    {
-      "source": "thelineofbestfit.com",
-      "title": "Norwegian folk-fusion group Diket announce debut album DIKET I SOLEN I DIKET",
-      "url": "https://www.thelineofbestfit.com/news/norwegian-folk-fusion-group-diket-announce-debut-album-diket-i-solen-i-diket",
-      "date": "2026-10-02",
-      "summary": "After featuring on Bandcamp Radio and receiving a a Grammis nomination, rising Oslo quartet Diket have detailed their first full-length album. DIKET I SOLEN I DIKET will be released by Supertraditional later this month."
-    },
-    {
-      "source": "thelineofbestfit.com",
-      "title": "Montreal’s clay pigeon announce second LP with \"Mount Pleasant\"",
-      "url": "https://www.thelineofbestfit.com/news/montreals-clay-pigeon-announce-second-lp-with-mount-pleasant",
-      "date": "2026-10-02",
-      "summary": "Montreal songwriter James Clayton's alt-country project clay pigeon has detailed its second album, Cash Out in Kid Gloves, coming next month. Lead single \"Mount Pleasant\" is out now."
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Phoebe Bridgers's Toronto Show Turned Private Emotions Into Cosmic Catharsis",
-      "url": "https://exclaim.ca/music/article/phoebe-bridgers-toronto-concert-review-lost-tour",
-      "date": "2026-10-02",
-      "summary": "Phoebe Bridgers doesn't make arena music. Her indie folk ballads are hushed and lyrically dense, much better suited for headphones than"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Stray Kids Join BTS Grammys Boycott",
-      "url": "https://exclaim.ca/music/article/stray-kids-join-bts-grammys-boycott",
-      "date": "2026-10-02",
-      "summary": "South Korean boy band Stray Kids have reportedly joined their contemporaries BTS in deciding to boycott next year's 69th annual Grammy"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Toronto Venue El Convento Rico Shutters After 35 Years of Operation",
-      "url": "https://exclaim.ca/music/article/toronto-venue-el-convento-rico-shutters-after-35-years-of-operation",
-      "date": "2026-10-02",
-      "summary": "Toronto Latin nightclub El Convento Rico has announced its closure after 35 years in operation. It will host its own farewell tonight at"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Horse Lords Reigned Without Reins at Toronto's Project Nowhere",
-      "url": "https://exclaim.ca/music/article/horse-lords-stefana-fratila-common-earth-mineral-project-nowhere-toronto-concert-review",
-      "date": "2026-10-02",
-      "summary": "Undoubtedly one of Toronto's best in-city festivals, Project Nowhere returned for its fourth iteration on Thursday (October 1), with shows"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Hear the Week's Best New Canadian Music: Elisapie, Bibi Club, Pierre Kwenders, Dominique Fils-Aimé",
-      "url": "https://exclaim.ca/music/article/hear-the-week-s-best-new-canadian-music-eh-list",
-      "date": "2026-10-02",
-      "summary": "Every week, we reconnect with our primal hunting and gathering instincts to put together 'The Eh! List,' a curated playlist of the best new"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "\"Trillions\" Is the Ideal Mashup of DIIV and A. G. Cook",
-      "url": "https://exclaim.ca/music/article/diiv-ag-cook-trillions-song-review",
-      "date": "2026-10-02",
-      "summary": "When DIIV recruited A. G. Cook to record their new album, \"Trillions\" is exactly what one would have hoped it would sound like: shoegaze"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Miesha and the Spanks on the Family Vibes and Maximalist Mics That Inspired 'Visions'",
-      "url": "https://exclaim.ca/music/article/miesha-and-the-spanks-visions-making-of",
-      "date": "2026-10-02",
-      "summary": "Miesha and the Spanks members Miesha Louie (guitar and vocals) and Sean Hamilton (drums) have been playing together for more than a decade"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Slash Gets Myles Kennedy, the Conspirators for 2027 World Tour",
-      "url": "https://exclaim.ca/music/article/slash-gets-myles-kennedy-the-conspirators-for-2027-world-tour",
-      "date": "2026-10-02",
-      "summary": "Slash has announced his forthcoming fifth album with Myles Kennedy and the Conspirators, 'Flying Blind' (out February 26 via Gibson Records)"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "'Unabomber' Clings to Easy Answers",
-      "url": "https://exclaim.ca/film/article/unabomber-film-review",
-      "date": "2026-10-02",
-      "summary": "Cinema often tells us that humiliation leads to feelings of isolation and resentment, which leads to doubling down on one's beliefs, howeve"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Wynonna Won't Turn Away from 'The Hard Truth'",
-      "url": "https://exclaim.ca/music/article/wynonna-the-hard-truth",
-      "date": "2026-10-02",
-      "summary": "Having just given Exclaim! the skinny on her 500 acres of land populated by 40 animals, plus her on-stage moment with U2, and taking five y"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Here's What's Coming to Prime Video in October 2026",
-      "url": "https://exclaim.ca/film/article/here-s-what-s-coming-to-prime-video-in-october-2026",
-      "date": "2026-10-02",
-      "summary": "With spooky season around the corner, Prime Video has a mix of titles to appease everyone this October, whether you like horror movies or"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Sylvan Esso, Cam Kahin, Cory Wong and 7 More Concerts We Are in the Future Is Bringing to Toronto",
-      "url": "https://exclaim.ca/music/article/sylvan-esso-cam-kahin-cory-wong-and-7-more-concerts-we-are-in-the-future-is-bringing-to-toronto",
-      "date": "2026-10-02",
-      "summary": "Cross off some early New Years Resolutions (and also any last minute 2026 plans) with We Are in the Future's latest batch of shows coming"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Here's What's Coming to Paramount+ in October 2026",
-      "url": "https://exclaim.ca/film/article/here-s-everything-coming-to-paramount-in-october-2026",
-      "date": "2026-10-02",
-      "summary": "Well, it appears Paramount+ does not observe gay Christmas, since its October programming is all but devoid of spooky offerings. It does"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "New Album Releases for October 2, 2026: Wishy, Victoria Monét, Greg Freeman and More",
-      "url": "https://exclaim.ca/music/article/new-album-releases-masterlist",
-      "date": "2026-10-02",
-      "summary": "So many album releases, so little time. It goes without saying that there is an absolute wealth of new music being released on a weekly"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Greta Van Fleet Book 2027 Tour Dates",
-      "url": "https://exclaim.ca/music/article/greta-van-fleet-book-2027-tour-dates",
-      "date": "2026-10-02",
-      "summary": "Everyone's favourite love-to-hate Led Zeppelin impersonators Greta Van Fleet are heading out on a massive headlining tour next year in"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Backstreet Boys Announce Toronto Stadium Shows",
-      "url": "https://exclaim.ca/music/article/backstreet-boys-announce-toronto-stadium-shows",
-      "date": "2026-10-02",
-      "summary": "Backstreet's back in Canada. Turn-of-the-millennium boy band Backstreet Boys have announced four nights at Toronto's Rogers Centre on"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "This Week's New Tours, Including Slipknot, Death from Above 1979, Carly Rae Jepsen: October 2, 2026",
-      "url": "https://exclaim.ca/music/article/this-week-s-new-tours-including-slipknot-death-from-above-1979-carly-rae-jepsen-october-2-2026",
-      "date": "2026-10-02",
-      "summary": "The latest tours coming to Canada this year and next include pop princess Carly Rae Jepsen (pictured above), Slipknot's stadium trek and"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Vancouver's Can't-Miss Concerts in October 2026, Including Phoebe Bridgers, Finn Wolfhard and the Zolas",
-      "url": "https://exclaim.ca/music/article/vancouver-s-can-t-miss-concerts-in-october-2026-including-phoebe-bridgers-finn-wolfhard-and-the-zolas",
-      "date": "2026-10-02",
-      "summary": "Boo! Did I scare ya? Spooky season has descended, so cleanse your palate from all those horror movies with some local indie rockers, a"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Bands Be Like \"Big Things Coming,\" and It's Just This Week's Funny Music Memes: October 2, 2026",
-      "url": "https://exclaim.ca/comedy/article/bands-be-like-big-things-coming-and-it-s-just-this-week-s-funny-music-memes-october-2-2026",
-      "date": "2026-10-02",
-      "summary": "Which is worse: Taylor Swift's \"Cleveland!\" or sombr's \"SEX\" belt? Weigh in after reading this week's roundup of funny music memes and"
-    },
-    {
       "source": "daily.bandcamp.com",
       "title": "The Best Metal on Bandcamp, September 2026",
       "url": "https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-september-2026",
@@ -396,167 +865,6 @@
       "url": "https://daily.bandcamp.com/album-of-the-day/kaitlyn-aurelia-smith-ruin-its-not-just-music-review",
       "date": "2026-10-01",
       "summary": "Kaitlyn Aurelia Smith plunges headlong into dance music on her thrilling new LP. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Prevention Announce Debut Album And Nothing’s Mine: Hear “Tell Yourself”",
-      "url": "https://stereogum.com/2513288/prevention-announce-debut-album-and-nothings-mine-hear-tell-yourself/music/",
-      "date": "2026-10-01",
-      "summary": "Springfield, Illinois' Prevention have been cranking out righteous, passionate straight-edge hardcore since 2019. They play fast, in an orthodox old-school youth crew style, but they seem to mean it so much that they never feel like they're just imitating the old bands that they love. The post Prevention Announce Debut Album <em>And Nothing’s Mine</em>: Hear “Tell Yourself” appeared first on Stere"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Omni’s Philip Frobos Shares New Sorry & Jane Birkin Covers",
-      "url": "https://stereogum.com/2513327/omnis-philip-frobos-shares-new-sorry-jane-birkin-covers/music/",
-      "date": "2026-10-01",
-      "summary": "In 2021, Omni's Philip Frobos released his debut solo album Vague Enough To Satisfy . Since then, he's been busy with the Atlanta post-punk band, who released Souvenir in 2024 and is currently celebrating the anniversary of their debut album Deluxe with a (you guessed it) deluxe version. Now he's back to sharing solo stuff, and this time it's covers of Sorry's 2024 tune \"Waxwing\" and Jane Birkin's"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Hear Anna Domino’s Previously Unreleased “Happy To Go” From New East And West Reissue",
-      "url": "https://stereogum.com/2513319/hear-anna-dominos-previously-unreleased-happy-to-go-from-new-east-and-west-reissue/music/",
-      "date": "2026-10-01",
-      "summary": "In 1984, Anna Domino released the five-track mini-album East And West on Les Disques du Crépuscule, the Belgian indie label that often collaborated with Tony Wilson's renowned Factory Records. The Tokyo-born artist was living in downtown New York and communicating the aura of the neighborhood through swimmy avant-pop daydreams. Now, East And West is getting a reissue from, appropriately, Domino. T"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "St. Louis Man Discovers His Father Is Michael McDonald",
-      "url": "https://stereogum.com/2513316/st-louis-man-discovers-his-father-is-michael-mcdonald/news/",
-      "date": "2026-10-01",
-      "summary": "Imagine finding out, deep into middle age, that you're the son of the honey-gargling king of yacht rock. Michael Goessling, a St. Louis resident, recently had just such an experience when he found out that he's Michael McDonald's son. For his whole life, Goessling knew that he was adopted. His parents conceived him when both of them were 14 years old, and he was put up for adoption as an infant. B"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Radio Free Alice – “Big Ideas” (Feat. Rachel Brown)",
-      "url": "https://stereogum.com/2513307/radio-free-alice-big-ideas-feat-rachel-brown/music/",
-      "date": "2026-10-01",
-      "summary": "Radio Free Alice are a Melbourne indie rock band with a sound that can make you feel instantly nostalgic. Depending on when you had your formative experiences, they might remind you of '00s blog-rock, '80s college rock, or any combination of those things. Their full-length debut What's In Between comes out later this month, and we've already posted singles like \" Rule 31 \" and \" Kick In The Shins "
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Courtney Marie Andrews, Cornelia Murr, Lola Kirke, & Katie Pearlman Debut New Supergroup Tommy",
-      "url": "https://stereogum.com/2513304/courtney-marie-andrews-cornelia-murr-lola-kirke-katie-pearlman-debut-new-supergroup-tommy/news/",
-      "date": "2026-10-01",
-      "summary": "There's a new supergroup in town. Courtney Marie Andrews, Cornelia Murr, Lola Kirke, and Katie Pearlman have joined forces to form Tommy, and they played their first show in Nashville earlier this week. The post Courtney Marie Andrews, Cornelia Murr, Lola Kirke, & Katie Pearlman Debut New Supergroup Tommy appeared first on Stereogum ."
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Peter Gabriel Announces Details For His New Album o\\i",
-      "url": "https://stereogum.com/2513279/peter-gabriel-announces-details-for-his-new-album-oi/news/",
-      "date": "2026-10-01",
-      "summary": "Peter Gabriel kicked off the year with the announcement of his new album o\\i . However, this wasn't a normal album cycle; the legendary singer-songwriter has been releasing a single for every full moon. Each track has two mixes — a Bright-Side mixed by Mark 'Spike' Stent and the Dark-Side mix by Tchad Blake — alongside a chosen piece of visual art. We've heard ten tracks so far: \" Been Undone ,\" \""
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Shady Bug – “seed”",
-      "url": "https://stereogum.com/2513188/shady-bug-seed/music/",
-      "date": "2026-10-01",
-      "summary": "Shady Bug, the St. Louis band that are the latest signees to Julia's War Recordings, will release their latest LP I wanted to be there at the end of this month. Holy crap, it's October. Anyway, they've already shared the lead single \" my night routine ,\" and today, they've followed it up with the new single \"seed.\" The post Shady Bug – “seed” appeared first on Stereogum ."
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Hudson Freeman Announces New Album Doom Country: Hear “Fell Ass Backwards”",
-      "url": "https://stereogum.com/2513258/hudson-freeman-announces-new-album-doom-country-hear-fell-ass-backwards/music/",
-      "date": "2026-10-01",
-      "summary": "Hudson Freeman came to my attention at the end of last year, when the Pitchfork critic-turned-music producer Nick Sylvester wrote about him in a Substack post called \" This is the song I shared most last year .\" Sylvester wrote about a \"demo\" version of Freeman's song \"If You Know Me\" that went viral on Instagram, which is less a demo than a lo-fi live performance video shot in a Southern Indiana "
-    },
-    {
-      "source": "stereogum.com",
-      "title": "SNL Roasts Stella Leffy In Cut-For-Time Weekend Update Segment",
-      "url": "https://stereogum.com/2513269/snl-roasts-stella-leffy-in-cut-for-time-weekend-update-segment/news/",
-      "date": "2026-10-01",
-      "summary": "Stella Lefty must be so happy about all the Ed Sheeran stuff. Before Sheeran submitted to billionaire demands and kicked Macklemore off of his tour, Lefty, the Groupon heiress turned flavorless country-folk-pop singer, was the easiest snark-target in the music world. Lefty's breakout smash \"Boston,\" still the #2 song in America, was a big enough bite of Noah Kahan's recent hit \"Stick Season\" that "
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Venom’s Conrad “Cronos” Lant Dead At 63",
-      "url": "https://stereogum.com/2513262/venoms-conrad-cronos-lant-dead-at-63/news/",
-      "date": "2026-10-01",
-      "summary": "Conrad \"Cronos\" Lant, longtime singer and bassist for the pioneering English underground metal band Venom, has passed away. The band announced Lant's passing in a social media post today. No cause of death has been reported. Lant was 63. The post Venom’s Conrad “Cronos” Lant Dead At 63 appeared first on Stereogum ."
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Lil Nas X Returns To Music With “World’s Greatest!”",
-      "url": "https://stereogum.com/2513256/lil-nas-x-returns-to-music-with-worlds-greatest/music/",
-      "date": "2026-10-01",
-      "summary": "Things looked bleak for a while there. Last year, while enduring a career lull and publicly struggling with his mental health , Lil Nas X was arrested on the streets of Los Angeles and faced four felony counts , including the risk of jail time. But the charges were dropped pending mental health treatment , which seems to be going well. The post Lil Nas X Returns To Music With “World’s Greatest!” a"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Smashing Pumpkins Break Out Live Debuts And Rarities At Mellon Collie 30th Anniversary Tour Opener",
-      "url": "https://stereogum.com/2513249/smashing-pumpkins-break-out-live-debuts-and-rarities-at-mellon-collie-30th-anniversary-tour-opener/news/",
-      "date": "2026-10-01",
-      "summary": "The Smashing Pumpkins' classic blockbuster double album Mellon Collie And The Infinite Sadness actually turned 30 last year, but the band is just now getting around to celebrating that anniversary on a new arena tour. Earlier this year, the band announced their Rats In A Cage Tour, advertising \"two unique sets celebrating Mellon Collie at 30 & nearly four decades of unruly hits & dark treasures.\" "
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Willi Carlisle – “Gas Station”",
-      "url": "https://stereogum.com/2513251/willi-carlisle-gas-station/music/",
-      "date": "2026-10-01",
-      "summary": "Willi Carlisle's Tyler Childers-produced double album The Universal Bubba is shaping up swimmingly. We've thus far heard the old-school folk reel \" Mason Jar At The Center Of The World \" and the barroom rocker \" Marlboro Vinyassa .\" This week Carlisle added another new single that comes with an extremely fun music video. The post Willi Carlisle – “Gas Station” appeared first on Stereogum ."
-    },
-    {
-      "source": "stereogum.com",
-      "title": "CMAT Talks Ed Sheeran, Sings A Stirring “Euro-Country” On The Daily Show",
-      "url": "https://stereogum.com/2513241/cmat-talks-ed-sheeran-sings-a-stirring-euro-country-on-the-daily-show/news/",
-      "date": "2026-10-01",
-      "summary": "Anytime the ascendant Irish star CMAT performs on TV, that's appointment viewing. She's a hugely engaging performer with a gigantic bazooka voice, and she makes the absolute most of every big performance. Fortunately, we've been getting a lot of those CMAT performances in the time since she released her album Euro-Country last year. Just a few weeks ago, CMAT was the musical guest on SNL UK , and "
-    },
-    {
-      "source": "stereogum.com",
-      "title": "claire rousay Announces New EP on holding: Hear “holy sedative”",
-      "url": "https://stereogum.com/2513244/claire-rousay-announces-new-ep-on-holding-hear-holy-sedative/music/",
-      "date": "2026-10-01",
-      "summary": "We never go long without new music from claire rousay. The emo ambient cult favorite just released a collaborative album with Martyna Basta last week, and today she's back with news of a fresh solo EP. Out next week, on holding will be the first release on rousay's new label quality sounds ltd. Here's how she explains it: The post claire rousay Announces New EP <em>on holding</em>: Hear “holy seda"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Rick Ross Arrested On Felony Domestic Violence Charge",
-      "url": "https://stereogum.com/2513239/rick-ross-arrested-on-felony-domestic-violence-charge/news/",
-      "date": "2026-10-01",
-      "summary": "Rick Ross was arrested by Miami Beach police early this morning on domestic violence charges, CBS News reports . The rapper, born William Leonard Roberts II, faces one felony count of battery by strangulation and one misdemeanor count of battery, both classified as domestic violence. Ross, 50, was booked into the Turner Guilford Knight Correctional Center at 6:10 a.m. today. The post Rick Ross Arr"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Stereogum Presents Grumpy’s Unfindable Ring Release Show Next Month",
-      "url": "https://stereogum.com/2513236/stereogum-presents-grumpys-unfindable-ring-release-show-next-month/news/",
-      "date": "2026-10-01",
-      "summary": "Last year, Stereogum faves Grumpy released their Piebald EP, and this very website presented the record release show at the Queens venue TV Eye. Since then, Grumpy have gone from being Heaven Schmitt's solo project to full-band status, and they'll release their much-anticipated new album Unfindable Ring later this month. We've posted the early singles \" Twenty Five ,\" \" OBL ,\" and the D.A. Crimson"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "THICK – “Heavy Metal”",
-      "url": "https://stereogum.com/2513198/thick-heavy-metal/music/",
-      "date": "2026-10-01",
-      "summary": "THICK are fucking back, baby. The Brooklyn quartet, which we dubbed a Band To Watch in 2018, have returned with a new single \"Heavy Metal.\" It's their first new music in two years, following their 2024 singles \" Mother \" and \" Father .\" The post THICK – “Heavy Metal” appeared first on Stereogum ."
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Yasmin Williams Explains Why She’s Still Booking Shows At The Kennedy Center",
-      "url": "https://stereogum.com/2513202/yasmin-williams-explains-why-shes-still-booking-shows-at-the-kennedy-center/news/",
-      "date": "2026-10-01",
-      "summary": "Following years of tumultuous restructuring, Yasmin Williams isn't going to let the music stop at the Kennedy Center if she can help it. Last year, after a mass exodus of artists from the center's committee in protest of Trump firing several board members and installing new ones who then elected him chairman, Williams continued to fight for the center's integrity and its union members. That includ"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Kelly Clarkson Loves AI For Music, But Thinks “AI Artists” Should Compete On Separate Charts",
-      "url": "https://stereogum.com/2513179/kelly-clarkson-loves-ai-for-music-but-thinks-ai-artists-should-compete-on-separate-charts/news/",
-      "date": "2026-10-01",
-      "summary": "Kelly Clarkson was the most recent guest on the culture/comedy podcast Las Culturistas , hosted by Bowen Yang and Matt Rogers. Towards the end of each episode, there's a segment called \"I Don't Think So Honey,\" where the guest has one minute to fire off a hot take or rant about whatever they choose. On Clarkson's episode, which dropped yesterday, Sept. 30, she talked about loving AI but argues tha"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Pillow Queens – “Kiss Kiss”",
-      "url": "https://stereogum.com/2513232/pillow-queens-kiss-kiss/music/",
-      "date": "2026-10-01",
-      "summary": "Dublin indie rockers Pillow Queens were a Stereogum Band To Watch back in 2021, and their most recent album Name Your Sorrow came out in 2024. That same year, they became a trio with the departure of drummer Rachel Lyons, and they started messing with drum machines and loops. Last year, they released the one-off single \"Be A Big Girl.\" Yesterday, they came back with \"Kiss Kiss,\" another one-off th"
-    },
-    {
-      "source": "stereogum.com",
-      "title": "Cult Crime Announce New Album Fully Automatic: Hear Two Tracks",
-      "url": "https://stereogum.com/2513229/cult-crime-announce-new-album-fully-automatic-hear-two-tracks/news/",
-      "date": "2026-10-01",
-      "summary": "When the Toronto punk band Cult Crime got started and released their 2023 demo , they weren't really a band; they were a solo project for Psychic Void's Matthew Menard. Since then, Cult Crime have grown into a four-piece, adding on members of groups like Chain Whip, Imploders, and the Vapids. Last year, Cult Crime released their self-titled full-length debut , a commendable collection of snotty, t"
     },
     {
       "source": "pitchfork.com",
@@ -587,48 +895,6 @@
       "summary": "The Swedish singer-producer abandons club convention on her new album, opting instead for soft keys, chimes, and featherlight vocals, along with undulating arrangements teasing drops that never come."
     },
     {
-      "source": "feeds.feedburner.com",
-      "title": "MPH Maps Out 'Here, Forever' World Tour",
-      "url": "https://exclaim.ca/music/article/mph-maps-out-here-forever-world-tour",
-      "date": "2026-10-01",
-      "summary": "MPH — the producer sitting at the intersection of UK garage and the global bassline revival — is gearing up for the forthcoming release of"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Shooting 'Digger' on Film Was a \"Pain in the Ass\" but \"Worth It,\" Says Alejandro G. Iñárritu",
-      "url": "https://exclaim.ca/film/article/alejandro-g-inarritu-digger-interview",
-      "date": "2026-10-01",
-      "summary": "Alejandro G. Iñárritu has wanted to shoot a movie in VistaVision for a while now. He had hoped to use the old-fashioned format for his last"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Riley Green Adds Second Toronto Date to 2027 North American Tour",
-      "url": "https://exclaim.ca/music/article/riley-green-maps-out-2027-north-american-tour",
-      "date": "2026-10-01",
-      "summary": "Earlier this month, country dude Riley Green released his latest album 'That's Just Me,' and now he's detailed plans for a 29-date"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "The Red Clay Strays Extend 'Grateful' North American Tour into 2027",
-      "url": "https://exclaim.ca/music/article/the-red-clay-strays-to-take-new-album-grateful-on-north-american-tour",
-      "date": "2026-10-01",
-      "summary": "A day after they announced their forthcoming new album 'Grateful' (out June 5), Alabama country outfit the Red Clay Strays are proving"
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "The Shins' James Mercer Was \"Embarassed\" by That Scene in 'Garden State'",
-      "url": "https://exclaim.ca/music/article/the-shins-james-mercer-was-embarassed-by-that-scene-in-garden-state",
-      "date": "2026-10-01",
-      "summary": "The Shins' career is still defined by that scene from 2004's 'Garden State' where Natalie Portman tells Zach Braff that the song \"New Slang\""
-    },
-    {
-      "source": "feeds.feedburner.com",
-      "title": "Boy Harsher Brought 'Blade Runner' Energy to Toronto",
-      "url": "https://exclaim.ca/music/article/boy-harsher-get-mean-toronto-concert-review",
-      "date": "2026-10-01",
-      "summary": "Arriving in Greektown last night (September 30), early for the show, I lay down on a bench in Withrow Park. I'd spent the afternoon with my"
-    },
-    {
       "source": "daily.bandcamp.com",
       "title": "The Best Field Recordings on Bandcamp, September 2026",
       "url": "https://daily.bandcamp.com/best-field-recordings/the-best-field-recordings-on-bandcamp-september-2026",
@@ -648,34 +914,6 @@
       "url": "https://daily.bandcamp.com/best-jazz/the-best-jazz-on-bandcamp-september-2026",
       "date": "2026-09-30",
       "summary": "Our guide to the month’s crucial jazz LPs. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Popstar",
-      "url": "https://pitchfork.com/reviews/albums/tinashe-popstar/",
-      "date": "2026-09-30",
-      "summary": "Tinashe’s eighth album is her best and bravest yet: more ambitious, more focused, and effortlessly in touch with the zeitgeist. It’s the best pop album of the year."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Westside Whimsy",
-      "url": "https://pitchfork.com/reviews/albums/jhene-aiko-westside-whimsy/",
-      "date": "2026-09-30",
-      "summary": "After records steeped in grief and heartbreak, the singer’s latest album is framed as a laid-back ode to Los Angeles, but it can be tough to tease out the substance behind the sunny vibes."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Intentions",
-      "url": "https://pitchfork.com/reviews/albums/megiapa-intentions/",
-      "date": "2026-09-30",
-      "summary": "On her International Anthem debut, the Los Angeles-based singer threads R&B, jazz, and downbeat electronic into lovestruck reveries that still feel true to life."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Dream House",
-      "url": "https://pitchfork.com/reviews/albums/empress-of-dream-house/",
-      "date": "2026-09-30",
-      "summary": "Lorely Rodriguez’s fifth album contends with the grief of losing her childhood home in a wildfire. These songs still center her virtuosic voice, but sometimes smother her eccentric perspective."
     },
     {
       "source": "daily.bandcamp.com",
@@ -706,34 +944,6 @@
       "summary": "Cut-up poetry meets cut-up music on an album that must be heard to be believed. Read full story on the Bandcamp Daily ."
     },
     {
-      "source": "pitchfork.com",
-      "title": "The Life of a Showgirl: The Encore",
-      "url": "https://pitchfork.com/reviews/albums/taylor-swift-the-life-of-a-showgirl-the-encore/",
-      "date": "2026-09-29",
-      "summary": "Four new songs appended to last year’s blockbuster album do little to reverse the downward trajectory of the songwriter’s recent work."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "The Gem",
-      "url": "https://pitchfork.com/reviews/albums/julia-jacklin-the-gem/",
-      "date": "2026-09-29",
-      "summary": "On her fourth album, the Australian singer-songwriter surrenders to the idea of change, filling her warm, reassuring songs with poignant imagery and a greater sense of perspective."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Chrome",
-      "url": "https://pitchfork.com/reviews/albums/ty-segall-chrome/",
-      "date": "2026-09-29",
-      "summary": "The prolific songwriter goes back to the garage, revisiting the primal sound of his early work with the tighter craftsmanship he’s developed over the past decade."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Clerestory",
-      "url": "https://pitchfork.com/reviews/albums/jules-reidy-clerestory/",
-      "date": "2026-09-29",
-      "summary": "The guitarist refracts yearning harmonic exercises performed by New York’s JACK Quartet through a variety of lenses, pushing the microtonal language of their compositions in unexpected directions."
-    },
-    {
       "source": "daily.bandcamp.com",
       "title": "The Tape Label Report, September 2026",
       "url": "https://daily.bandcamp.com/tape-label-report/the-tape-label-report-september-2026",
@@ -755,200 +965,11 @@
       "summary": "The New York City rapper and producer's collaboration contains a single directive: Go touch grass. Read full story on the Bandcamp Daily ."
     },
     {
-      "source": "pitchfork.com",
-      "title": "I Wrote You a Letter",
-      "url": "https://pitchfork.com/reviews/albums/m83-i-wrote-you-a-letter/",
-      "date": "2026-09-28",
-      "summary": "Anthony Gonzalez returns to his roots on a largely instrumental new album, but these compositions lack the drama and dynamism of his best work."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Nearly",
-      "url": "https://pitchfork.com/reviews/albums/bullion-nearly/",
-      "date": "2026-09-28",
-      "summary": "Saying more with reverb and echo than with words, the London producer’s new album gives the impression of ECM jazz records collaged into effortless sophisti-pop ballads."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Mule",
-      "url": "https://pitchfork.com/reviews/albums/orville-peck-mule/",
-      "date": "2026-09-28",
-      "summary": "The South African-born country singer’s latest album is a hell-and-back tale of addiction and redemption. But where other artists might opt for austerity, Peck goes all in on his usual pomp."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Paddywhackery",
-      "url": "https://pitchfork.com/reviews/albums/the-mary-wallopers-paddywhackery/",
-      "date": "2026-09-28",
-      "summary": "Righteous sociopolitical furor sounds timeless and accessible on the sextet’s third album, which combines Irish trad with rock and punk to interrogate history, identity, and class struggle."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Northern Exposure",
-      "url": "https://pitchfork.com/reviews/albums/sasha-john-digweed-northern-exposure/",
-      "date": "2026-09-27",
-      "summary": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the British DJs’ monumental 1996 mix, a virtuosic blend of after-hours grooves and floor-filling intensity that helped to canonize the elusive sound of progressive house."
-    },
-    {
       "source": "daily.bandcamp.com",
       "title": "Today is Bandcamp Friday",
       "url": "https://daily.bandcamp.com/features/bandcamp-fridays",
       "date": "2026-09-26",
       "summary": "Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Eternal (Live)",
-      "url": "https://pitchfork.com/reviews/albums/joy-division-eternal-live/",
-      "date": "2026-09-26",
-      "summary": "A 16-disc box set captures 14 months of live sets from the post-punk titans’ prime. Despite their dour reputation, they prove consistently thrilling on stage, led by Ian Curtis’ whirlwind intensity."
-    },
-    {
-      "source": "daily.bandcamp.com",
-      "title": "Hip-Hop That Streaming Forgot",
-      "url": "https://daily.bandcamp.com/lists/hip-hop-that-streaming-forgot",
-      "date": "2026-09-25",
-      "summary": "A selection of rap projects lost to the sands of time that deserve your time and love Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "daily.bandcamp.com",
-      "title": "The Best Albums of Summer 2026",
-      "url": "https://daily.bandcamp.com/best-of-2026/the-best-albums-of-summer-2026",
-      "date": "2026-09-25",
-      "summary": "Looking back at the last three months. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "daily.bandcamp.com",
-      "title": "applied communications, “applied communications bites the big one”",
-      "url": "https://daily.bandcamp.com/album-of-the-day/applied-communications-applied-communications-bites-the-big-one-review",
-      "date": "2026-09-25",
-      "summary": "The latest from Max Wood is blissfully disorienting. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Pugnello",
-      "url": "https://pitchfork.com/reviews/albums/gilla-band-pugnello/",
-      "date": "2026-09-25",
-      "summary": "Exploding its signature blend of noise-punk and dance music to masterful extremes, the Irish band gets louder, rawer, funnier, and more methodical on its exhilarating fourth album."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "AUDACITY",
-      "url": "https://pitchfork.com/reviews/albums/jae-stephens-audacity/",
-      "date": "2026-09-25",
-      "summary": "A Beyoncé stan turned pop songwriter, the L.A.-based singer steps out with a major label debut that highlights her versatile vocals, winking humor, and close study of the Top 40."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Everyone Gets Everything They Want",
-      "url": "https://pitchfork.com/reviews/albums/tom-morello-everyone-gets-everything-they-want/",
-      "date": "2026-09-25",
-      "summary": "The Rage Against the Machine guitarist’s towering legacy and sincere political convictions are at painful odds with the sanitized blues-rawk and tedious folk poetry on his new solo album."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Happiness Anytime",
-      "url": "https://pitchfork.com/reviews/albums/leon-bridges-happiness-anytime/",
-      "date": "2026-09-25",
-      "summary": "The retro R&B singer surrenders to the groove on a versatile and rhythmic new album that keeps the momentum going without ever really getting anywhere."
-    },
-    {
-      "source": "daily.bandcamp.com",
-      "title": "Stones Throw At 30: Artists Share Stories About the Label’s Rich History",
-      "url": "https://daily.bandcamp.com/features/stones-throw-label-profile",
-      "date": "2026-09-24",
-      "summary": "Looking back at three decades of the iconic underground rap label. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "daily.bandcamp.com",
-      "title": "megiapa, “Intentions”",
-      "url": "https://daily.bandcamp.com/album-of-the-day/megiapa-intentions-review",
-      "date": "2026-09-24",
-      "summary": "On her debut album, megiapa elevates what would be a masterful beat tape into a lyrical diary. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Bass Persuades",
-      "url": "https://pitchfork.com/reviews/albums/miley-cyrus-bass-persuades/",
-      "date": "2026-09-24",
-      "summary": "Miley Cyrus has a distinctive voice, outsize charisma, and an infamous weird streak, but her short, uninspired new album sounds dated on arrival."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "No Rest for the Wicked",
-      "url": "https://pitchfork.com/reviews/albums/az-chike-no-rest-for-the-wicked/",
-      "date": "2026-09-24",
-      "summary": "With A&R assistance from Kendrick Lamar, the L.A. rapper shows off his versatility and knack for hooks on an album that effortlessly balances fury, swagger, and introspection."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Melodie",
-      "url": "https://pitchfork.com/reviews/albums/slow-pulp-melodie/",
-      "date": "2026-09-24",
-      "summary": "The Midwest indie rock band returns with a new wave-influenced album that explores our innate desire to understand and be understood."
-    },
-    {
-      "source": "pitchfork.com",
-      "title": "Dogma",
-      "url": "https://pitchfork.com/reviews/albums/kim-ximya-dogma/",
-      "date": "2026-09-24",
-      "summary": "The combative Korean rapper leans into club music on his first album in six years, wrapping rhythmically inventive bilingual refrains around tough, futuristic beats."
-    },
-    {
-      "source": "daily.bandcamp.com",
-      "title": "Industrial Strength: A Guide to Godflesh",
-      "url": "https://daily.bandcamp.com/lists/godflesh-albums-list",
-      "date": "2026-09-23",
-      "summary": "Justin Broadrick is shutting down his famed industrial-metal project—but first, a guided tour of his catalog. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "daily.bandcamp.com",
-      "title": "Semiratruth, “S!M”",
-      "url": "https://daily.bandcamp.com/album-of-the-day/semiratruth-sm-review",
-      "date": "2026-09-23",
-      "summary": "The latest from the Brooklyn musician is a sharp and stunning deconstruction of dance music. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "daily.bandcamp.com",
-      "title": "Faust Reunite Without Reuniting",
-      "url": "https://daily.bandcamp.com/features/faust-interview",
-      "date": "2026-09-23",
-      "summary": "The krautrock pioneers return with four new albums that pull their singular sound in four very different directions. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "daily.bandcamp.com",
-      "title": "David Murray is History",
-      "url": "https://daily.bandcamp.com/lists/david-murray-album-guide",
-      "date": "2026-09-22",
-      "summary": "The saxophonist is a central figure in the story of jazz in the ‘80s and beyond. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "daily.bandcamp.com",
-      "title": "The Drin, “I Lost My Way For Centuries”",
-      "url": "https://daily.bandcamp.com/album-of-the-day/the-drin-i-lost-my-way-for-centuries-review",
-      "date": "2026-09-22",
-      "summary": "The Ohio punks master gothic Americana, dub, art rock, and more on their most ambitious LP to date. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "daily.bandcamp.com",
-      "title": "Dexter Story Picks His Bandcamp Favorites",
-      "url": "https://daily.bandcamp.com/big-ups/dexter-story-big-ups",
-      "date": "2026-09-21",
-      "summary": "Here's what the L.A. icon has been listening to on Bandcamp as of late. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "daily.bandcamp.com",
-      "title": "SUAHN, “Distort Everything Forever”",
-      "url": "https://daily.bandcamp.com/album-of-the-day/suahn-distort-everything-forever-review",
-      "date": "2026-09-21",
-      "summary": "The Baltimore post-hardcore guitarist galvanizes personal struggles into stark, unsettling club jams. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "daily.bandcamp.com",
-      "title": "A Journey Through Ghetto House and Juke",
-      "url": "https://daily.bandcamp.com/features/ghetto-house-juke-album-guide",
-      "date": "2026-09-21",
-      "summary": "How a crew of South and West Side producers transformed house music—and laid the groundwork for footwork. Read full story on the Bandcamp Daily ."
     }
   ]
 }
